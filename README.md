@@ -21,7 +21,7 @@ emissions-calculator/
 ├── .gitignore
 ├── data/
 │   ├── raw/                          # Place your CSV files here
-│   │   ├── operation_data_test_2.csv
+│   │   ├── operation_data_test.csv
 │   │   ├── fuel_data.csv
 │   │   ├── refrigerant_gwp.csv
 │   │   ├── refrigerator_data.csv
