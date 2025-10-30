@@ -1,0 +1,30 @@
+intervention_id,crop_type,intervention_category,intervention_subcategory,intervention_name,capex,capex_unit,annual_carbon_reduction,annual_carbon_reduction_unit,bioethanol_production_rate,bioethanol_production_rate_unit,lifespan,annual_operation_cost,annual_operation_cost_unit
+bioethanol_energy_recov_1,Barley,Nbs,Energy Recovery,On-site Bioethanol Production from Agricultural Residue,2.97,USD per L,-3.47,kg CO2e per ton,310,L per ton,25,0.36,USD per L
+bioethanol_energy_recov_2,Cereal Crops,Nbs,Energy Recovery,On-site Bioethanol Production from Agricultural Residue,2.97,USD per L,-5.54,kg CO2e per ton,330,L per ton,25,0.36,USD per L
+bioethanol_energy_recov_3,Corn,Nbs,Energy Recovery,On-site Bioethanol Production from Agricultural Residue,2.97,USD per L,-4.62,kg CO2e per ton,300,L per ton,25,0.36,USD per L
+bioethanol_energy_recov_4,Oat,Nbs,Energy Recovery,On-site Bioethanol Production from Agricultural Residue,2.97,USD per L,-3.78,kg CO2e per ton,270,L per ton,25,0.36,USD per L
+nbs_use_changes_1,Cereal Crops,Nbs,Usage Changes,Conventional Tillage to No-Till,142.06,USD per ha,102.79,kg CO2e per ha,,,20,,
+nbs_use_changes_2,Corn,Nbs,Usage Changes,Conventional Tillage to No-Till,140.91,USD per ha,212.86,kg CO2e per ha,,,20,,
+nbs_use_changes_3,Cotton,Nbs,Usage Changes,Conventional Tillage to No-Till,982.74,USD per ha,93.08,kg CO2e per ha,,,20,,
+nbs_use_changes_4,Sorghum,Nbs,Usage Changes,Conventional Tillage to No-Till,102.71,USD per ha,105.89,kg CO2e per ha,,,20,,
+nbs_use_changes_5,Soybeans,Nbs,Usage Changes,Conventional Tillage to No-Till,133.83,USD per ha,97.12,kg CO2e per ha,,,20,,
+nbs_use_changes_6,Cereal Crops,Nbs,Usage Changes,Switch from Conventional Tillage to Reduced Tillage,33.69,USD per ha,11.74,kg CO2e per ha,,,20,,
+nbs_use_changes_7,Corn,Nbs,Usage Changes,Switch from Conventional Tillage to Reduced Tillage,79.33,USD per ha,53.82,kg CO2e per ha,,,20,,
+nbs_use_changes_8,Cotton,Nbs,Usage Changes,Switch from Conventional Tillage to Reduced Tillage,304.47,USD per ha,14.16,kg CO2e per ha,,,20,,
+nbs_use_changes_9,Sorghum,Nbs,Usage Changes,Switch from Conventional Tillage to Reduced Tillage,36.53,USD per ha,16.77,kg CO2e per ha,,,20,,
+biochar_energy_recovery_1,Barley,Nbs,Energy Recovery,Produce Biochar from Crop Residue,11.72,USD per ton,264,kg CO2e per ton,,,25,,
+biochar_energy_recovery_2,Cereal Crops,Nbs,Energy Recovery,Produce Biochar from Crop Residue,15.62,USD per ton,396,kg CO2e per ton,,,25,,
+biochar_energy_recovery_3,Corn,Nbs,Energy Recovery,Produce Biochar from Crop Residue,23.27,USD per ton,363,kg CO2e per ton,,,25,,
+biochar_energy_recovery_4,Oat,Nbs,Energy Recovery,Produce Biochar from Crop Residue,14.65,USD per ton,330,kg CO2e per ton,,,25,,
+biochar_energy_recovery_5,Barley,Nbs,Energy Recovery,Produce Biochar from Crop Residue,69.15,USD per ha,190,kg CO2e per ha,,,25,,
+biochar_energy_recovery_6,Cereal Crops,Nbs,Energy Recovery,Produce Biochar from Crop Residue,69.15,USD per ha,210,kg CO2e per ha,,,25,,
+biochar_energy_recovery_7,Corn,Nbs,Energy Recovery,Produce Biochar from Crop Residue,69.15,USD per ha,130,kg CO2e per ha,,,25,,
+biochar_energy_recovery_8,Oat,Nbs,Energy Recovery,Produce Biochar from Crop Residue,69.15,USD per ha,190,kg CO2e per ha,,,25,,
+nbs_use_changes_10,Cereal Crops,Nbs,Usage Changes,Switch from Reduced Tillage to No-Till,77.66,USD per ha,92.67,kg CO2e per ha,,,20,,
+nbs_use_changes_11,Corn,Nbs,Usage Changes,Switch from Reduced Tillage to No-Till,89.7,USD per ha,159.04,kg CO2e per ha,,,20,,
+nbs_use_changes_12,Cotton,Nbs,Usage Changes,Switch from Reduced Tillage to No-Till,600.25,USD per ha,88.22,kg CO2e per ha,,,20,,
+nbs_use_changes_13,Sorghum,Nbs,Usage Changes,Switch from Reduced Tillage to No-Till,64.24,USD per ha,97.93,kg CO2e per ha,,,20,,
+nbs_use_changes_14,Soybeans,Nbs,Usage Changes,Switch from Reduced Tillage to No-Till,164.23,USD per ha,94.6,kg CO2e per ha,,,20,,
+nbs_use_changes_15,All,Nbs,Usage Changes,Complete Riparian Tree Planting,685.77,USD per ha,1250,kg CO2e per ha,,,25,,
+nbs_use_changes_16,All,Nbs,Usage Changes,Expand Silvopastoral Systems,340.04,USD per ha,790,kg CO2e per ha,,,25,,
+nbs_use_changes_17,All,Nbs,Usage Changes,Complete Tree Intercropping,340.04,USD per ha,840,kg CO2e per ha,,,25,,

@@ -1,0 +1,37 @@
+﻿category,subcategory,unit,manure_production,manure_production_unit,biogas_production,biogas_production_unit,electricity_potential,electricity_potential_unit,heat_energy_potential,heat_energy_potential_unit
+Dairy Cattle,Calf,count,5.45,kg per day,0.25,m3 per day,150.68,kWh per year,0.68,GJ per year
+Dairy Cattle,Heifer,count,20.45,kg per day,0.94,m3 per day,566.56,kWh per year,2.56,GJ per year
+Dairy Cattle,Lactating Cow,count,50.45,kg per day,2.31,m3 per day,1392.3,kWh per year,6.3,GJ per year
+Non-Dairy Cattle,Calf,count,21.82,kg per day,0.71,m3 per day,427.94,kWh per year,1.94,GJ per year
+Non-Dairy Cattle,Finishing,count,16.82,kg per day,0.55,m3 per day,331.5,kWh per year,1.5,GJ per year
+Non-Dairy Cattle,Cow,count,41.82,kg per day,1.36,m3 per day,819.71,kWh per year,3.71,GJ per year
+Other,Sheep,count,1.86,kg per day,0.09,m3 per day,54.25,kWh per year,0.25,GJ per year
+Swine,Nursery,count,1.36,kg per day,0.06,m3 per day,36.16,kWh per year,0.16,GJ per year
+Swine,Finishing,count,3.36,kg per day,0.15,m3 per day,90.41,kWh per year,0.41,GJ per year
+Swine,Gestating,count,3.09,kg per day,0.14,m3 per day,84.38,kWh per year,0.38,GJ per year
+Swine,Lactating,count,7.95,kg per day,0.36,m3 per day,216.98,kWh per year,0.98,GJ per year
+Swine,Boar,count,2.82,kg per day,0.13,m3 per day,78.35,kWh per year,0.35,GJ per year
+Poultry,Broiler,count,0.17,kg per day,0.02,m3 per day,12.05,kWh per year,0.05,GJ per year
+Poultry,Layers,count,0.09,kg per day,0.01,m3 per day,6.03,kWh per year,0.03,GJ per year
+Poultry,Duck,count,0.2,kg per day,0.02,m3 per day,12.05,kWh per year,0.05,GJ per year
+Poultry,Turkey (F),count,0.21,kg per day,0.02,m3 per day,12.05,kWh per year,0.05,GJ per year
+Poultry,Turkey (M),count,0.34,kg per day,0.03,m3 per day,18.08,kWh per year,0.08,GJ per year
+Other,Horses,count,24.77,kg per day,1.14,m3 per day,687.11,kWh per year,3.11,GJ per year
+Other,Animal fat,tone,N.A.,,801,m3 per day,"1,361.70",kWh per year,6.17,GJ per year
+Other,Animal carcass,tone,N.A.,,368,m3 per day,625.6,kWh per year,2.83,GJ per year
+Other,Municipal wastewater sludge,tone,N.A.,,17,m3 per day,28.9,kWh per year,0.13,GJ per year
+Other,Household waste,tone,N.A.,,143,m3 per day,243.1,kWh per year,1.1,GJ per year
+Other,Barley,tone,N.A.,,169,m3 per day,287.3,kWh per year,1.3,GJ per year
+Other,Wheat,tone,N.A.,,48,m3 per day,81.6,kWh per year,0.37,GJ per year
+Other,Oats,tone,N.A.,,147,m3 per day,249.9,kWh per year,1.13,GJ per year
+Other,Rye,tone,N.A.,,112,m3 per day,190.4,kWh per year,0.86,GJ per year
+Other,Triticale,tone,N.A.,,150,m3 per day,255,kWh per year,1.16,GJ per year
+Other,Sugar beet leaves,tone,N.A.,,40,m3 per day,68,kWh per year,0.31,GJ per year
+Other,Fodder corn,tone,N.A.,,182,m3 per day,309.4,kWh per year,1.4,GJ per year
+Other,Tame hay,tone,N.A.,,80,m3 per day,136,kWh per year,0.62,GJ per year
+Other,Leaves,tone,N.A.,,72,m3 per day,122.4,kWh per year,0.55,GJ per year
+Other,Whey,tone,N.A.,,6,m3 per day,10.2,kWh per year,0.05,GJ per year
+Other,Grass silage,tone,N.A.,,75,m3 per day,127.5,kWh per year,0.58,GJ per year
+Other,Distiller grain wastewater,tone,N.A.,,58,m3 per day,98.6,kWh per year,0.45,GJ per year
+Other,Corn Silage,tone,N.A.,,N.A.,,335,kWh per year,1.53,GJ per year
+Other,Bakery Waste,tone,N.A.,,N.A.,,490,kWh per year,2.27,GJ per year

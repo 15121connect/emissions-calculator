@@ -1,0 +1,25 @@
+category,subcategory,unit,emission_per_unit,emission_unit
+Dairy Cattle,Calf,count,4895.39,kg CO2e per count
+Dairy Cattle,Heifer,count,4895.39,kg CO2e per count
+Dairy Cattle,Lactating Cow,count,4895.39,kg CO2e per count
+Non-Dairy Cattle,Calf,count,2089.08,kg CO2e per count
+Non-Dairy Cattle,Finishing,count,2089.08,kg CO2e per count
+Non-Dairy Cattle,Cow,count,2089.08,kg CO2e per count
+Sheep,Sheep,count,218.92,kg CO2e per count
+Swine,Nursery,count,162.88,kg CO2e per count
+Swine,Finishing,count,162.88,kg CO2e per count
+Swine,Gestating,count,162.88,kg CO2e per count
+Swine,Lactating,count,162.88,kg CO2e per count
+Swine,Boar,count,162.88,kg CO2e per count
+Poultry,Broiler,count,4.23,kg CO2e per count
+Poultry,Layers,count,4.23,kg CO2e per count
+Poultry,Duck,count,4.23,kg CO2e per count
+Poultry,Turkey (F),count,4.23,kg CO2e per count
+Poultry,Turkey (M),count,4.23,kg CO2e per count
+Horses,Horses,count,661.02,kg CO2e per count
+Inorganic Fertilizer,Inorganic Fertilizer,kg,2.98,kg CO2e per kg
+Organic Fertilizer,Organic Fertilizer,kg,2.98,kg CO2e per kg
+Animal Manure Applied,Animal Manure Applied,kg,2.98,kg CO2e per kg
+Burning of Annual Crops,Burning of Annual Crops,tonnes,80.38,kg CO2e per tonnes
+Limestone,Limestone,kg,0.000125,kg CO2e per kg
+Urea,Urea,kg,0.0002,kg CO2e per kg

@@ -1,0 +1,13 @@
+intervention_id,lighting_type,intervention_category,intervention_subcategory,lumens_per_watt,average_life_hours,max_lumens,cost_per_bulb
+incandescent_efficiency_upgrade,Incandescent,Lighting,Efficiency Upgrades and Maintenance,20,875,4000,0.9
+halogen_efficiency_upgrade,Halogen,Lighting,Efficiency Upgrades and Maintenance,21,4000,10500,1
+cfl_efficiency_upgrade,Compact Fluorescent,Lighting,Efficiency Upgrades and Maintenance,55,8000,1595,6.65
+t12_efficiency_upgrade,T12 Fluorescent,Lighting,Efficiency Upgrades and Maintenance,80,10500,6000,12
+t8_efficiency_upgrade,T8 Fluorescent,Lighting,Efficiency Upgrades and Maintenance,100,17500,5900,15.25
+t5_efficiency_upgrade,t5_fluorescent,Lighting,Efficiency Upgrades and Maintenance,105,22000,8400,8.17
+hp_sodium_efficiency_upgrade,High Pressure Sodium,Lighting,Efficiency Upgrades and Maintenance,90,24000,36000,20
+led_efficiency_upgrade,LED,Lighting,Efficiency Upgrades and Maintenance,150,65000,8100,16
+induction_efficiency_upgrade,Induction,Lighting,Efficiency Upgrades and Maintenance,80,80000,32000,30
+hp_sodium_400plus_efficiency_upgrade,High Pressure Sodium (>400W),Lighting,Efficiency Upgrades and Maintenance,90,24000,1000,55.7
+metal_halide_efficiency_upgrade,Metal Halide,Lighting,Efficiency Upgrades and Maintenance,94,13750,94000,10.68
+led_100plus_efficiency_upgrade,LED (>100W),Lighting,Efficiency Upgrades and Maintenance,150,65000,400,225

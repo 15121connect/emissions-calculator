@@ -1,0 +1,64 @@
+intervention_id,intervention_category,country_code,country_name,state_name,capital_cost_unit,capital_cost,annual_sunlight_hours,solar_panel_size_unit,solar_panel_size,power_generation,power_generation_unit
+solar,solar_intervention,CA,Canada,Alberta,USD per W,2.08,1276,m2,1.63,250,W
+solar,solar_intervention,CA,Canada,British Columbia,USD per W,2.02,1004,m2,1.63,250,W
+solar,solar_intervention,CA,Canada,Manitoba,USD per W,2.18,1272,m2,1.63,250,W
+solar,solar_intervention,CA,Canada,New Brunswick,USD per W,2.43,1142,m2,1.63,250,W
+solar,solar_intervention,CA,Canada,Newfoundland and Labrador,USD per W,3.23,949,m2,1.63,250,W
+solar,solar_intervention,CA,Canada,Northwest Territories,USD per W,2.01,1064,m2,1.63,250,W
+solar,solar_intervention,CA,Canada,Nova Scotia,USD per W,2.51,1090,m2,1.63,250,W
+solar,solar_intervention,CA,Canada,Nunavut,USD per W,3,1092,m2,1.63,250,W
+solar,solar_intervention,CA,Canada,Ontario,USD per W,1.94,1166,m2,1.63,250,W
+solar,solar_intervention,CA,Canada,Prince Edward Island,USD per W,2.5,1104,m2,1.63,250,W
+solar,solar_intervention,CA,Canada,Quebec,USD per W,2.12,1183,m2,1.63,250,W
+solar,solar_intervention,CA,Canada,Saskatchewan,USD per W,2.42,1330,m2,1.63,250,W
+solar,solar_intervention,CA,Canada,Yukon,USD per W,1.72,965,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Alabama,USD per W,2.45,1577,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Alaska,USD per W,2.41,1091,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Arizona,USD per W,2.61,2398,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Arkansas,USD per W,2.54,1712,m2,1.63,250,W
+solar,solar_intervention,USA,United States,California,USD per W,2.73,1964,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Colorado,USD per W,2.69,1778,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Connecticut,USD per W,2.8,1402,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Delaware,USD per W,2.58,1544,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Florida,USD per W,2.53,2070,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Georgia,USD per W,2.55,1730,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Hawaii,USD per W,2.67,2197,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Idaho,USD per W,2.6,1796,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Illinois,USD per W,2.73,1146,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Indiana,USD per W,2.68,1537,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Iowa,USD per W,2.77,1661,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Kansas,USD per W,2.59,2113,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Kentucky,USD per W,2.34,1803,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Louisiana,USD per W,2.57,1796,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Maine,USD per W,2.83,1646,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Maryland,USD per W,2.77,1632,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Massachusetts,USD per W,2.94,1402,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Michigan,USD per W,2.81,1460,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Minnesota,USD per W,2.84,1653,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Mississippi,USD per W,2.64,1621,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Missouri,USD per W,2.59,1726,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Montana,USD per W,2.54,1799,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Nebraska,USD per W,2.83,1748,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Nevada,USD per W,2.52,2340,m2,1.63,250,W
+solar,solar_intervention,USA,United States,New Hampshire,USD per W,2.91,1683,m2,1.63,250,W
+solar,solar_intervention,USA,United States,New Jersey,USD per W,2.77,1537,m2,1.63,250,W
+solar,solar_intervention,USA,United States,New Mexico,USD per W,2.68,2471,m2,1.63,250,W
+solar,solar_intervention,USA,United States,New York,USD per W,2.94,1383,m2,1.63,250,W
+solar,solar_intervention,USA,United States,North Carolina,USD per W,2.54,1719,m2,1.63,250,W
+solar,solar_intervention,USA,United States,North Dakota,USD per W,2.42,1829,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Ohio,USD per W,2.56,1515,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Oklahoma,USD per W,2.62,2040,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Oregan,USD per W,2.6,1471,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Pennsylvania,USD per W,2.55,1427,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Rhode Island,USD per W,2.84,1544,m2,1.63,250,W
+solar,solar_intervention,USA,United States,South Carolina,USD per W,2.72,1847,m2,1.63,250,W
+solar,solar_intervention,USA,United States,South Dakota,USD per W,2.39,1909,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Tennessee,USD per W,2.49,1624,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Texas,USD per W,2.69,1796,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Utah,USD per W,2.68,1920,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Vermont,USD per W,2.87,1507,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Virginia,USD per W,2.75,1507,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Washington,USD per W,2.69,1303,m2,1.63,250,W
+solar,solar_intervention,USA,United States,West Virginia,USD per W,2.64,1299,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Wisconsin,USD per W,2.6,1566,m2,1.63,250,W
+solar,solar_intervention,USA,United States,Wyoming,USD per W,2.57,2212,m2,1.63,250,W

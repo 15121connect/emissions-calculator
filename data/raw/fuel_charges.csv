@@ -1,0 +1,1729 @@
+id,fuel_type,state_or_province,country,average_rate,average_rate_unit
+1,Steam,Alaska,United States,8,USD per mmbtu
+2,Steam,Alabama,United States,8,USD per mmbtu
+3,Steam,Arkansas,United States,8,USD per mmbtu
+4,Steam,Arizona,United States,8,USD per mmbtu
+5,Steam,California,United States,8,USD per mmbtu
+6,Steam,Colorado,United States,8,USD per mmbtu
+7,Steam,Connecticut,United States,8,USD per mmbtu
+8,Steam,Washington D.C,United States,8,USD per mmbtu
+9,Steam,Delaware,United States,8,USD per mmbtu
+10,Steam,Florida,United States,8,USD per mmbtu
+11,Steam,Georgia,United States,8,USD per mmbtu
+12,Steam,Hawaii,United States,8,USD per mmbtu
+13,Steam,Iowa,United States,8,USD per mmbtu
+14,Steam,Idaho,United States,8,USD per mmbtu
+15,Steam,Illinois,United States,8,USD per mmbtu
+16,Steam,Indiana,United States,8,USD per mmbtu
+17,Steam,Kansas,United States,8,USD per mmbtu
+18,Steam,Kentucky,United States,8,USD per mmbtu
+19,Steam,Louisiana,United States,8,USD per mmbtu
+20,Steam,Massachusetts,United States,8,USD per mmbtu
+21,Steam,Maryland,United States,8,USD per mmbtu
+22,Steam,Maine,United States,8,USD per mmbtu
+23,Steam,Michigan,United States,8,USD per mmbtu
+24,Steam,Minnesota,United States,8,USD per mmbtu
+25,Steam,Missouri,United States,8,USD per mmbtu
+26,Steam,Mississippi,United States,8,USD per mmbtu
+27,Steam,Montana,United States,8,USD per mmbtu
+28,Steam,North Carolina,United States,8,USD per mmbtu
+29,Steam,North Dakota,United States,8,USD per mmbtu
+30,Steam,Nebraska,United States,8,USD per mmbtu
+31,Steam,New Hampshire,United States,8,USD per mmbtu
+32,Steam,New Jersey,United States,8,USD per mmbtu
+33,Steam,New Mexico,United States,8,USD per mmbtu
+34,Steam,Nevada,United States,8,USD per mmbtu
+35,Steam,New York,United States,8,USD per mmbtu
+36,Steam,Ohio,United States,8,USD per mmbtu
+37,Steam,Oklahoma,United States,8,USD per mmbtu
+38,Steam,Oregon,United States,8,USD per mmbtu
+39,Steam,Pennsylvania,United States,8,USD per mmbtu
+40,Steam,Puerto Rico,United States,8,USD per mmbtu
+41,Steam,Rhode Island,United States,8,USD per mmbtu
+42,Steam,South Carolina,United States,8,USD per mmbtu
+43,Steam,South Dakota,United States,8,USD per mmbtu
+44,Steam,Tennessee,United States,8,USD per mmbtu
+45,Steam,Texas,United States,8,USD per mmbtu
+46,Steam,Utah,United States,8,USD per mmbtu
+47,Steam,Virginia,United States,8,USD per mmbtu
+48,Steam,Vermont,United States,8,USD per mmbtu
+49,Steam,Washington,United States,8,USD per mmbtu
+50,Steam,Wisconsin,United States,8,USD per mmbtu
+51,Steam,West Virginia,United States,8,USD per mmbtu
+52,Steam,Wyoming,United States,8,USD per mmbtu
+53,Steam,Alberta,Canada,8,USD per mmbtu
+54,Steam,British Columbia,Canada,8,USD per mmbtu
+55,Steam,Manitoba,Canada,8,USD per mmbtu
+56,Steam,New Brunswick,Canada,8,USD per mmbtu
+57,Steam,Newfoundland and Labrador,Canada,8,USD per mmbtu
+58,Steam,Northwest Territories,Canada,8,USD per mmbtu
+59,Steam,Nova Scotia,Canada,8,USD per mmbtu
+60,Steam,Nunavut,Canada,8,USD per mmbtu
+61,Steam,Ontario,Canada,8,USD per mmbtu
+62,Steam,Prince Edward Island,Canada,8,USD per mmbtu
+63,Steam,Quebec,Canada,8,USD per mmbtu
+64,Steam,Saskatchewan,Canada,8,USD per mmbtu
+65,Steam,Yukon,Canada,8,USD per mmbtu
+66,Electricity,Connecticut,United States,0.2599,USD per kWh
+67,Electricity,Maine,United States,0.2235,USD per kWh
+68,Electricity,Massachusetts,United States,0.247,USD per kWh
+69,Electricity,New Hampshire,United States,0.2487,USD per kWh
+70,Electricity,Rhode Island,United States,0.2167,USD per kWh
+71,Electricity,Vermont,United States,0.1741,USD per kWh
+72,Electricity,New Jersey,United States,0.146,USD per kWh
+73,Electricity,New York,United States,0.1725,USD per kWh
+74,Electricity,Pennsylvania,United States,0.1273,USD per kWh
+75,Electricity,Illinois,United States,0.1247,USD per kWh
+76,Electricity,Indiana,United States,0.1242,USD per kWh
+77,Electricity,Michigan,United States,0.1323,USD per kWh
+78,Electricity,Ohio,United States,0.1087,USD per kWh
+79,Electricity,Wisconsin,United States,0.123,USD per kWh
+80,Electricity,Iowa,United States,0.083,USD per kWh
+81,Electricity,Kansas,United States,0.1139,USD per kWh
+82,Electricity,Minnesota,United States,0.1177,USD per kWh
+83,Electricity,Missouri,United States,0.1013,USD per kWh
+84,Electricity,Nebraska,United States,0.0881,USD per kWh
+85,Electricity,North Dakota,United States,0.0775,USD per kWh
+86,Electricity,South Dakota,United States,0.0997,USD per kWh
+87,Electricity,Delaware,United States,0.1271,USD per kWh
+88,Electricity,Washington D.C,United States,0.1613,USD per kWh
+89,Electricity,Florida,United States,0.1322,USD per kWh
+90,Electricity,Georgia,United States,0.108,USD per kWh
+91,Electricity,Maryland,United States,0.1385,USD per kWh
+92,Electricity,North Carolina,United States,0.1039,USD per kWh
+93,Electricity,South Carolina,United States,0.1052,USD per kWh
+94,Electricity,Virginia,United States,0.1113,USD per kWh
+95,Electricity,West Virginia,United States,0.1028,USD per kWh
+96,Electricity,Alabama,United States,0.1102,USD per kWh
+97,Electricity,Kentucky,United States,0.0977,USD per kWh
+98,Electricity,Mississippi,United States,0.1132,USD per kWh
+99,Electricity,Tennessee,United States,0.1075,USD per kWh
+100,Electricity,Arkansas,United States,0.0957,USD per kWh
+101,Electricity,Louisiana,United States,0.0913,USD per kWh
+102,Electricity,Oklahoma,United States,0.0876,USD per kWh
+103,Electricity,Texas,United States,0.0992,USD per kWh
+104,Electricity,Arizona,United States,0.1119,USD per kWh
+105,Electricity,Colorado,United States,0.1134,USD per kWh
+106,Electricity,Idaho,United States,0.0845,USD per kWh
+107,Electricity,Montana,United States,0.1115,USD per kWh
+108,Electricity,Nevada,United States,0.1243,USD per kWh
+109,Electricity,New Mexico,United States,0.0919,USD per kWh
+110,Electricity,Utah,United States,0.0889,USD per kWh
+111,Electricity,Wyoming,United States,0.0821,USD per kWh
+112,Electricity,California,United States,0.2257,USD per kWh
+113,Electricity,Oregon,United States,0.1018,USD per kWh
+114,Electricity,Washington,United States,0.0968,USD per kWh
+115,Electricity,Alaska,United States,0.2119,USD per kWh
+116,Electricity,Hawaii,United States,0.4111,USD per kWh
+117,Electricity,Connecticut,United States,0.2072,USD per kWh
+118,Electricity,Maine,United States,0.1844,USD per kWh
+119,Electricity,Massachusetts,United States,0.2113,USD per kWh
+120,Electricity,New Hampshire,United States,0.197,USD per kWh
+121,Electricity,Rhode Island,United States,0.1969,USD per kWh
+122,Electricity,Vermont,United States,0.1697,USD per kWh
+123,Electricity,New Jersey,United States,0.1442,USD per kWh
+124,Electricity,New York,United States,0.1675,USD per kWh
+125,Electricity,Pennsylvania,United States,0.1094,USD per kWh
+126,Electricity,Illinois,United States,0.1128,USD per kWh
+127,Electricity,Indiana,United States,0.1103,USD per kWh
+128,Electricity,Michigan,United States,0.1266,USD per kWh
+129,Electricity,Ohio,United States,0.0989,USD per kWh
+130,Electricity,Wisconsin,United States,0.1136,USD per kWh
+131,Electricity,Iowa,United States,0.0814,USD per kWh
+132,Electricity,Kansas,United States,0.1078,USD per kWh
+133,Electricity,Minnesota,United States,0.1136,USD per kWh
+134,Electricity,Missouri,United States,0.095,USD per kWh
+135,Electricity,Nebraska,United States,0.0855,USD per kWh
+136,Electricity,North Dakota,United States,0.0818,USD per kWh
+137,Electricity,South Dakota,United States,0.1,USD per kWh
+138,Electricity,Delaware,United States,0.1133,USD per kWh
+139,Electricity,Washington D.C,United States,0.1461,USD per kWh
+140,Electricity,Florida,United States,0.1205,USD per kWh
+141,Electricity,Georgia,United States,0.1072,USD per kWh
+142,Electricity,Maryland,United States,0.1252,USD per kWh
+143,Electricity,North Carolina,United States,0.1003,USD per kWh
+144,Electricity,South Carolina,United States,0.1024,USD per kWh
+145,Electricity,Virginia,United States,0.0978,USD per kWh
+146,Electricity,West Virginia,United States,0.0939,USD per kWh
+147,Electricity,Alabama,United States,0.1048,USD per kWh
+148,Electricity,Kentucky,United States,0.0935,USD per kWh
+149,Electricity,Mississippi,United States,0.1028,USD per kWh
+150,Electricity,Tennessee,United States,0.1006,USD per kWh
+151,Electricity,Arkansas,United States,0.0886,USD per kWh
+152,Electricity,Louisiana,United States,0.0886,USD per kWh
+153,Electricity,Oklahoma,United States,0.0852,USD per kWh
+154,Electricity,Texas,United States,0.0933,USD per kWh
+155,Electricity,Arizona,United States,0.1024,USD per kWh
+156,Electricity,Colorado,United States,0.1101,USD per kWh
+157,Electricity,Idaho,United States,0.081,USD per kWh
+158,Electricity,Montana,United States,0.0909,USD per kWh
+159,Electricity,Nevada,United States,0.0909,USD per kWh
+160,Electricity,New Mexico,United States,0.0968,USD per kWh
+161,Electricity,Utah,United States,0.0834,USD per kWh
+162,Electricity,Wyoming,United States,0.0807,USD per kWh
+163,Electricity,California,United States,0.2089,USD per kWh
+164,Electricity,Oregon,United States,0.0906,USD per kWh
+165,Electricity,Washington,United States,0.0895,USD per kWh
+166,Electricity,Alaska,United States,0.2047,USD per kWh
+167,Electricity,Hawaii,United States,0.3635,USD per kWh
+168,Electricity,Alberta,Canada,0.1275,USD per kWh
+169,Electricity,British Columbia,Canada,0.0975,USD per kWh
+170,Electricity,Manitoba,Canada,0.0675,USD per kWh
+171,Electricity,New Brunswick,Canada,0.0975,USD per kWh
+172,Electricity,Newfoundland and Labrador,Canada,0.105,USD per kWh
+173,Electricity,Northwest Territories,Canada,0.285,USD per kWh
+174,Electricity,Nova Scotia,Canada,0.1275,USD per kWh
+175,Electricity,Nunavut,Canada,0.285,USD per kWh
+176,Electricity,Ontario,Canada,0.0975,USD per kWh
+177,Electricity,Prince Edward Island,Canada,0.1275,USD per kWh
+178,Electricity,Quebec,Canada,0.0525,USD per kWh
+179,Electricity,Saskatchewan,Canada,0.135,USD per kWh
+180,Electricity,Yukon,Canada,0.135,USD per kWh
+181,Motor Gasoline,Alabama,United States,0.74,USD per L
+182,Propane,Alabama,United States,0.95,USD per L
+183,Biodiesel (100%),Alabama,United States,1.38,USD per L
+184,Liquefied Natural Gas (LNG),Alabama,United States,2.73,USD per L
+185,Compressed Natural Gas (CNG),Alabama,United States,0.07,USD per m3
+186,Diesel,Alabama,United States,1.07,USD per L
+187,Biodiesel (20%),Alabama,United States,1.11,USD per L
+188,Ethanol (85%),Alabama,United States,0.67,USD per L
+189,Motor Gasoline,Alaska,United States,1.15,USD per L
+190,Propane,Alaska,United States,1.04,USD per L
+191,Biodiesel (100%),Alaska,United States,1.49,USD per L
+192,Liquefied Natural Gas (LNG),Alaska,United States,4.14,USD per L
+193,Compressed Natural Gas (CNG),Alaska,United States,0.12,USD per m3
+194,Diesel,Alaska,United States,1.44,USD per L
+195,Biodiesel (20%),Alaska,United States,1.29,USD per L
+196,Ethanol (85%),Alaska,United States,0.87,USD per L
+197,Motor Gasoline,Arizona,United States,1.15,USD per L
+198,Propane,Arizona,United States,1.04,USD per L
+199,Biodiesel (100%),Arizona,United States,1.49,USD per L
+200,Liquefied Natural Gas (LNG),Arizona,United States,4.14,USD per L
+201,Compressed Natural Gas (CNG),Arizona,United States,0.12,USD per m3
+202,Diesel,Arizona,United States,1.44,USD per L
+203,Biodiesel (20%),Arizona,United States,1.29,USD per L
+204,Ethanol (85%),Arizona,United States,0.87,USD per L
+205,Motor Gasoline,Arkansas,United States,0.74,USD per L
+206,Propane,Arkansas,United States,0.95,USD per L
+207,Biodiesel (100%),Arkansas,United States,1.38,USD per L
+208,Liquefied Natural Gas (LNG),Arkansas,United States,2.73,USD per L
+209,Compressed Natural Gas (CNG),Arkansas,United States,0.07,USD per m3
+210,Diesel,Arkansas,United States,1.07,USD per L
+211,Biodiesel (20%),Arkansas,United States,1.11,USD per L
+212,Ethanol (85%),Arkansas,United States,0.67,USD per L
+213,Motor Gasoline,California,United States,1.15,USD per L
+214,Propane,California,United States,1.04,USD per L
+215,Biodiesel (100%),California,United States,1.49,USD per L
+216,Liquefied Natural Gas (LNG),California,United States,4.14,USD per L
+217,Compressed Natural Gas (CNG),California,United States,0.12,USD per m3
+218,Diesel,California,United States,1.44,USD per L
+219,Biodiesel (20%),California,United States,1.29,USD per L
+220,Ethanol (85%),California,United States,0.87,USD per L
+221,Motor Gasoline,Colorado,United States,0.88,USD per L
+222,Propane,Colorado,United States,0.96,USD per L
+223,Biodiesel (100%),Colorado,United States,1.38,USD per L
+224,Liquefied Natural Gas (LNG),Colorado,United States,3.51,USD per L
+225,Compressed Natural Gas (CNG),Colorado,United States,0.07,USD per m3
+226,Diesel,Colorado,United States,1.16,USD per L
+227,Biodiesel (20%),Colorado,United States,1.33,USD per L
+228,Ethanol (85%),Colorado,United States,0.83,USD per L
+229,Motor Gasoline,Connecticut,United States,0.84,USD per L
+230,Propane,Connecticut,United States,1,USD per L
+231,Biodiesel (100%),Connecticut,United States,1.19,USD per L
+232,Liquefied Natural Gas (LNG),Connecticut,United States,3.51,USD per L
+233,Compressed Natural Gas (CNG),Connecticut,United States,0.1,USD per m3
+234,Diesel,Connecticut,United States,1.37,USD per L
+235,Biodiesel (20%),Connecticut,United States,1.15,USD per L
+236,Ethanol (85%),Connecticut,United States,1.1,USD per L
+237,Motor Gasoline,Delaware,United States,0.85,USD per L
+238,Propane,Delaware,United States,0.8,USD per L
+239,Biodiesel (100%),Delaware,United States,1.28,USD per L
+240,Liquefied Natural Gas (LNG),Delaware,United States,3.51,USD per L
+241,Compressed Natural Gas (CNG),Delaware,United States,0.07,USD per m3
+242,Diesel,Delaware,United States,1.22,USD per L
+243,Biodiesel (20%),Delaware,United States,1.13,USD per L
+244,Ethanol (85%),Delaware,United States,0.8,USD per L
+245,Motor Gasoline,Florida,United States,0.86,USD per L
+246,Propane,Florida,United States,0.92,USD per L
+247,Biodiesel (100%),Florida,United States,1.45,USD per L
+248,Liquefied Natural Gas (LNG),Florida,United States,3.57,USD per L
+249,Compressed Natural Gas (CNG),Florida,United States,0.07,USD per m3
+250,Diesel,Florida,United States,1.25,USD per L
+251,Biodiesel (20%),Florida,United States,1.09,USD per L
+252,Ethanol (85%),Florida,United States,0.78,USD per L
+253,Motor Gasoline,Georgia,United States,0.86,USD per L
+254,Propane,Georgia,United States,0.92,USD per L
+255,Biodiesel (100%),Georgia,United States,1.45,USD per L
+256,Liquefied Natural Gas (LNG),Georgia,United States,3.57,USD per L
+257,Compressed Natural Gas (CNG),Georgia,United States,0.07,USD per m3
+258,Diesel,Georgia,United States,1.25,USD per L
+259,Biodiesel (20%),Georgia,United States,1.09,USD per L
+260,Ethanol (85%),Georgia,United States,0.78,USD per L
+261,Motor Gasoline,Hawaii,United States,1.15,USD per L
+262,Propane,Hawaii,United States,1.04,USD per L
+263,Biodiesel (100%),Hawaii,United States,1.49,USD per L
+264,Liquefied Natural Gas (LNG),Hawaii,United States,4.14,USD per L
+265,Compressed Natural Gas (CNG),Hawaii,United States,0.12,USD per m3
+266,Diesel,Hawaii,United States,1.44,USD per L
+267,Biodiesel (20%),Hawaii,United States,1.29,USD per L
+268,Ethanol (85%),Hawaii,United States,0.87,USD per L
+269,Motor Gasoline,Idaho,United States,0.88,USD per L
+270,Propane,Idaho,United States,0.96,USD per L
+271,Biodiesel (100%),Idaho,United States,1.38,USD per L
+272,Liquefied Natural Gas (LNG),Idaho,United States,3.51,USD per L
+273,Compressed Natural Gas (CNG),Idaho,United States,0.07,USD per m3
+274,Diesel,Idaho,United States,1.16,USD per L
+275,Biodiesel (20%),Idaho,United States,1.33,USD per L
+276,Ethanol (85%),Idaho,United States,0.83,USD per L
+277,Motor Gasoline,Illinois,United States,0.82,USD per L
+278,Propane,Illinois,United States,0.97,USD per L
+279,Biodiesel (100%),Illinois,United States,1.38,USD per L
+280,Liquefied Natural Gas (LNG),Illinois,United States,2.08,USD per L
+281,Compressed Natural Gas (CNG),Illinois,United States,0.06,USD per m3
+282,Diesel,Illinois,United States,1.14,USD per L
+283,Biodiesel (20%),Illinois,United States,1.09,USD per L
+284,Ethanol (85%),Illinois,United States,0.69,USD per L
+285,Motor Gasoline,Indiana,United States,0.82,USD per L
+286,Propane,Indiana,United States,0.97,USD per L
+287,Biodiesel (100%),Indiana,United States,1.38,USD per L
+288,Liquefied Natural Gas (LNG),Indiana,United States,2.08,USD per L
+289,Compressed Natural Gas (CNG),Indiana,United States,0.06,USD per m3
+290,Diesel,Indiana,United States,1.14,USD per L
+291,Biodiesel (20%),Indiana,United States,1.09,USD per L
+292,Ethanol (85%),Indiana,United States,0.69,USD per L
+293,Motor Gasoline,Iowa,United States,0.82,USD per L
+294,Propane,Iowa,United States,0.97,USD per L
+295,Biodiesel (100%),Iowa,United States,1.38,USD per L
+296,Liquefied Natural Gas (LNG),Iowa,United States,2.08,USD per L
+297,Compressed Natural Gas (CNG),Iowa,United States,0.06,USD per m3
+298,Diesel,Iowa,United States,1.14,USD per L
+299,Biodiesel (20%),Iowa,United States,1.09,USD per L
+300,Ethanol (85%),Iowa,United States,0.69,USD per L
+301,Motor Gasoline,Kansas,United States,0.82,USD per L
+302,Propane,Kansas,United States,0.97,USD per L
+303,Biodiesel (100%),Kansas,United States,1.38,USD per L
+304,Liquefied Natural Gas (LNG),Kansas,United States,2.08,USD per L
+305,Compressed Natural Gas (CNG),Kansas,United States,0.06,USD per m3
+306,Diesel,Kansas,United States,1.14,USD per L
+307,Biodiesel (20%),Kansas,United States,1.09,USD per L
+308,Ethanol (85%),Kansas,United States,0.69,USD per L
+309,Motor Gasoline,Kentucky,United States,0.82,USD per L
+310,Propane,Kentucky,United States,0.97,USD per L
+311,Biodiesel (100%),Kentucky,United States,1.38,USD per L
+312,Liquefied Natural Gas (LNG),Kentucky,United States,2.08,USD per L
+313,Compressed Natural Gas (CNG),Kentucky,United States,0.06,USD per m3
+314,Diesel,Kentucky,United States,1.14,USD per L
+315,Biodiesel (20%),Kentucky,United States,1.09,USD per L
+316,Ethanol (85%),Kentucky,United States,0.69,USD per L
+317,Motor Gasoline,Louisiana,United States,0.74,USD per L
+318,Propane,Louisiana,United States,0.95,USD per L
+319,Biodiesel (100%),Louisiana,United States,1.38,USD per L
+320,Liquefied Natural Gas (LNG),Louisiana,United States,2.73,USD per L
+321,Compressed Natural Gas (CNG),Louisiana,United States,0.07,USD per m3
+322,Diesel,Louisiana,United States,1.07,USD per L
+323,Biodiesel (20%),Louisiana,United States,1.11,USD per L
+324,Ethanol (85%),Louisiana,United States,0.67,USD per L
+325,Motor Gasoline,Maine,United States,0.84,USD per L
+326,Propane,Maine,United States,1,USD per L
+327,Biodiesel (100%),Maine,United States,1.19,USD per L
+328,Liquefied Natural Gas (LNG),Maine,United States,3.51,USD per L
+329,Compressed Natural Gas (CNG),Maine,United States,0.1,USD per m3
+330,Diesel,Maine,United States,1.37,USD per L
+331,Biodiesel (20%),Maine,United States,1.15,USD per L
+332,Ethanol (85%),Maine,United States,1.1,USD per L
+333,Motor Gasoline,Maryland,United States,0.85,USD per L
+334,Propane,Maryland,United States,0.8,USD per L
+335,Biodiesel (100%),Maryland,United States,1.28,USD per L
+336,Liquefied Natural Gas (LNG),Maryland,United States,3.51,USD per L
+337,Compressed Natural Gas (CNG),Maryland,United States,0.07,USD per m3
+338,Diesel,Maryland,United States,1.22,USD per L
+339,Biodiesel (20%),Maryland,United States,1.13,USD per L
+340,Ethanol (85%),Maryland,United States,0.8,USD per L
+341,Motor Gasoline,Massachusetts,United States,0.84,USD per L
+342,Propane,Massachusetts,United States,1,USD per L
+343,Biodiesel (100%),Massachusetts,United States,1.19,USD per L
+344,Liquefied Natural Gas (LNG),Massachusetts,United States,3.51,USD per L
+345,Compressed Natural Gas (CNG),Massachusetts,United States,0.1,USD per m3
+346,Diesel,Massachusetts,United States,1.37,USD per L
+347,Biodiesel (20%),Massachusetts,United States,1.15,USD per L
+348,Ethanol (85%),Massachusetts,United States,1.1,USD per L
+349,Motor Gasoline,Michigan,United States,0.82,USD per L
+350,Propane,Michigan,United States,0.97,USD per L
+351,Biodiesel (100%),Michigan,United States,1.38,USD per L
+352,Liquefied Natural Gas (LNG),Michigan,United States,2.08,USD per L
+353,Compressed Natural Gas (CNG),Michigan,United States,0.06,USD per m3
+354,Diesel,Michigan,United States,1.14,USD per L
+355,Biodiesel (20%),Michigan,United States,1.09,USD per L
+356,Ethanol (85%),Michigan,United States,0.69,USD per L
+357,Motor Gasoline,Minnesota,United States,0.82,USD per L
+358,Propane,Minnesota,United States,0.97,USD per L
+359,Biodiesel (100%),Minnesota,United States,1.38,USD per L
+360,Liquefied Natural Gas (LNG),Minnesota,United States,2.08,USD per L
+361,Compressed Natural Gas (CNG),Minnesota,United States,0.06,USD per m3
+362,Diesel,Minnesota,United States,1.14,USD per L
+363,Biodiesel (20%),Minnesota,United States,1.09,USD per L
+364,Ethanol (85%),Minnesota,United States,0.69,USD per L
+365,Motor Gasoline,Mississippi,United States,0.74,USD per L
+366,Propane,Mississippi,United States,0.95,USD per L
+367,Biodiesel (100%),Mississippi,United States,1.38,USD per L
+368,Liquefied Natural Gas (LNG),Mississippi,United States,2.73,USD per L
+369,Compressed Natural Gas (CNG),Mississippi,United States,0.07,USD per m3
+370,Diesel,Mississippi,United States,1.07,USD per L
+371,Biodiesel (20%),Mississippi,United States,1.11,USD per L
+372,Ethanol (85%),Mississippi,United States,0.67,USD per L
+373,Motor Gasoline,Missouri,United States,0.82,USD per L
+374,Propane,Missouri,United States,0.97,USD per L
+375,Biodiesel (100%),Missouri,United States,1.38,USD per L
+376,Liquefied Natural Gas (LNG),Missouri,United States,2.08,USD per L
+377,Compressed Natural Gas (CNG),Missouri,United States,0.06,USD per m3
+378,Diesel,Missouri,United States,1.14,USD per L
+379,Biodiesel (20%),Missouri,United States,1.09,USD per L
+380,Ethanol (85%),Missouri,United States,0.69,USD per L
+381,Motor Gasoline,Montana,United States,0.88,USD per L
+382,Propane,Montana,United States,0.96,USD per L
+383,Biodiesel (100%),Montana,United States,1.38,USD per L
+384,Liquefied Natural Gas (LNG),Montana,United States,3.51,USD per L
+385,Compressed Natural Gas (CNG),Montana,United States,0.07,USD per m3
+386,Diesel,Montana,United States,1.16,USD per L
+387,Biodiesel (20%),Montana,United States,1.33,USD per L
+388,Ethanol (85%),Montana,United States,0.83,USD per L
+389,Motor Gasoline,Nebraska,United States,0.82,USD per L
+390,Propane,Nebraska,United States,0.97,USD per L
+391,Biodiesel (100%),Nebraska,United States,1.38,USD per L
+392,Liquefied Natural Gas (LNG),Nebraska,United States,2.08,USD per L
+393,Compressed Natural Gas (CNG),Nebraska,United States,0.06,USD per m3
+394,Diesel,Nebraska,United States,1.14,USD per L
+395,Biodiesel (20%),Nebraska,United States,1.09,USD per L
+396,Ethanol (85%),Nebraska,United States,0.69,USD per L
+397,Motor Gasoline,Nevada,United States,1.15,USD per L
+398,Propane,Nevada,United States,1.04,USD per L
+399,Biodiesel (100%),Nevada,United States,1.49,USD per L
+400,Liquefied Natural Gas (LNG),Nevada,United States,4.14,USD per L
+401,Compressed Natural Gas (CNG),Nevada,United States,0.12,USD per m3
+402,Diesel,Nevada,United States,1.44,USD per L
+403,Biodiesel (20%),Nevada,United States,1.29,USD per L
+404,Ethanol (85%),Nevada,United States,0.87,USD per L
+405,Motor Gasoline,New Hampshire,United States,0.84,USD per L
+406,Propane,New Hampshire,United States,1,USD per L
+407,Biodiesel (100%),New Hampshire,United States,1.19,USD per L
+408,Liquefied Natural Gas (LNG),New Hampshire,United States,3.51,USD per L
+409,Compressed Natural Gas (CNG),New Hampshire,United States,0.1,USD per m3
+410,Diesel,New Hampshire,United States,1.37,USD per L
+411,Biodiesel (20%),New Hampshire,United States,1.15,USD per L
+412,Ethanol (85%),New Hampshire,United States,1.1,USD per L
+413,Motor Gasoline,New Jersey,United States,0.85,USD per L
+414,Propane,New Jersey,United States,0.8,USD per L
+415,Biodiesel (100%),New Jersey,United States,1.28,USD per L
+416,Liquefied Natural Gas (LNG),New Jersey,United States,3.51,USD per L
+417,Compressed Natural Gas (CNG),New Jersey,United States,0.07,USD per m3
+418,Diesel,New Jersey,United States,1.22,USD per L
+419,Biodiesel (20%),New Jersey,United States,1.13,USD per L
+420,Ethanol (85%),New Jersey,United States,0.8,USD per L
+421,Motor Gasoline,New Mexico,United States,0.74,USD per L
+422,Propane,New Mexico,United States,0.95,USD per L
+423,Biodiesel (100%),New Mexico,United States,1.38,USD per L
+424,Liquefied Natural Gas (LNG),New Mexico,United States,2.73,USD per L
+425,Compressed Natural Gas (CNG),New Mexico,United States,0.07,USD per m3
+426,Diesel,New Mexico,United States,1.07,USD per L
+427,Biodiesel (20%),New Mexico,United States,1.11,USD per L
+428,Ethanol (85%),New Mexico,United States,0.67,USD per L
+429,Motor Gasoline,New York,United States,0.85,USD per L
+430,Propane,New York,United States,0.8,USD per L
+431,Biodiesel (100%),New York,United States,1.28,USD per L
+432,Liquefied Natural Gas (LNG),New York,United States,3.51,USD per L
+433,Compressed Natural Gas (CNG),New York,United States,0.07,USD per m3
+434,Diesel,New York,United States,1.22,USD per L
+435,Biodiesel (20%),New York,United States,1.13,USD per L
+436,Ethanol (85%),New York,United States,0.8,USD per L
+437,Motor Gasoline,North Carolina,United States,0.86,USD per L
+438,Propane,North Carolina,United States,0.92,USD per L
+439,Biodiesel (100%),North Carolina,United States,1.45,USD per L
+440,Liquefied Natural Gas (LNG),North Carolina,United States,3.57,USD per L
+441,Compressed Natural Gas (CNG),North Carolina,United States,0.07,USD per m3
+442,Diesel,North Carolina,United States,1.25,USD per L
+443,Biodiesel (20%),North Carolina,United States,1.09,USD per L
+444,Ethanol (85%),North Carolina,United States,0.78,USD per L
+445,Motor Gasoline,North Dakota,United States,0.82,USD per L
+446,Propane,North Dakota,United States,0.97,USD per L
+447,Biodiesel (100%),North Dakota,United States,1.38,USD per L
+448,Liquefied Natural Gas (LNG),North Dakota,United States,2.08,USD per L
+449,Compressed Natural Gas (CNG),North Dakota,United States,0.06,USD per m3
+450,Diesel,North Dakota,United States,1.14,USD per L
+451,Biodiesel (20%),North Dakota,United States,1.09,USD per L
+452,Ethanol (85%),North Dakota,United States,0.69,USD per L
+453,Motor Gasoline,Ohio,United States,0.82,USD per L
+454,Propane,Ohio,United States,0.97,USD per L
+455,Biodiesel (100%),Ohio,United States,1.38,USD per L
+456,Liquefied Natural Gas (LNG),Ohio,United States,2.08,USD per L
+457,Compressed Natural Gas (CNG),Ohio,United States,0.06,USD per m3
+458,Diesel,Ohio,United States,1.14,USD per L
+459,Biodiesel (20%),Ohio,United States,1.09,USD per L
+460,Ethanol (85%),Ohio,United States,0.69,USD per L
+461,Motor Gasoline,Oklahoma,United States,0.82,USD per L
+462,Propane,Oklahoma,United States,0.97,USD per L
+463,Biodiesel (100%),Oklahoma,United States,1.38,USD per L
+464,Liquefied Natural Gas (LNG),Oklahoma,United States,2.08,USD per L
+465,Compressed Natural Gas (CNG),Oklahoma,United States,0.06,USD per m3
+466,Diesel,Oklahoma,United States,1.14,USD per L
+467,Biodiesel (20%),Oklahoma,United States,1.09,USD per L
+468,Ethanol (85%),Oklahoma,United States,0.69,USD per L
+469,Motor Gasoline,Oregon,United States,1.15,USD per L
+470,Propane,Oregon,United States,1.04,USD per L
+471,Biodiesel (100%),Oregon,United States,1.49,USD per L
+472,Liquefied Natural Gas (LNG),Oregon,United States,4.14,USD per L
+473,Compressed Natural Gas (CNG),Oregon,United States,0.12,USD per m3
+474,Diesel,Oregon,United States,1.44,USD per L
+475,Biodiesel (20%),Oregon,United States,1.29,USD per L
+476,Ethanol (85%),Oregon,United States,0.87,USD per L
+477,Motor Gasoline,Pennsylvania,United States,0.85,USD per L
+478,Propane,Pennsylvania,United States,0.8,USD per L
+479,Biodiesel (100%),Pennsylvania,United States,1.28,USD per L
+480,Liquefied Natural Gas (LNG),Pennsylvania,United States,3.51,USD per L
+481,Compressed Natural Gas (CNG),Pennsylvania,United States,0.07,USD per m3
+482,Diesel,Pennsylvania,United States,1.22,USD per L
+483,Biodiesel (20%),Pennsylvania,United States,1.13,USD per L
+484,Ethanol (85%),Pennsylvania,United States,0.8,USD per L
+485,Motor Gasoline,Rhode Island,United States,0.84,USD per L
+486,Propane,Rhode Island,United States,1,USD per L
+487,Biodiesel (100%),Rhode Island,United States,1.19,USD per L
+488,Liquefied Natural Gas (LNG),Rhode Island,United States,3.51,USD per L
+489,Compressed Natural Gas (CNG),Rhode Island,United States,0.1,USD per m3
+490,Diesel,Rhode Island,United States,1.37,USD per L
+491,Biodiesel (20%),Rhode Island,United States,1.15,USD per L
+492,Ethanol (85%),Rhode Island,United States,1.1,USD per L
+493,Motor Gasoline,South Carolina,United States,0.86,USD per L
+494,Propane,South Carolina,United States,0.92,USD per L
+495,Biodiesel (100%),South Carolina,United States,1.45,USD per L
+496,Liquefied Natural Gas (LNG),South Carolina,United States,3.57,USD per L
+497,Compressed Natural Gas (CNG),South Carolina,United States,0.07,USD per m3
+498,Diesel,South Carolina,United States,1.25,USD per L
+499,Biodiesel (20%),South Carolina,United States,1.09,USD per L
+500,Ethanol (85%),South Carolina,United States,0.78,USD per L
+501,Motor Gasoline,South Dakota,United States,0.82,USD per L
+502,Propane,South Dakota,United States,0.97,USD per L
+503,Biodiesel (100%),South Dakota,United States,1.38,USD per L
+504,Liquefied Natural Gas (LNG),South Dakota,United States,2.08,USD per L
+505,Compressed Natural Gas (CNG),South Dakota,United States,0.06,USD per m3
+506,Diesel,South Dakota,United States,1.14,USD per L
+507,Biodiesel (20%),South Dakota,United States,1.09,USD per L
+508,Ethanol (85%),South Dakota,United States,0.69,USD per L
+509,Motor Gasoline,Tennessee,United States,0.82,USD per L
+510,Propane,Tennessee,United States,0.97,USD per L
+511,Biodiesel (100%),Tennessee,United States,1.38,USD per L
+512,Liquefied Natural Gas (LNG),Tennessee,United States,2.08,USD per L
+513,Compressed Natural Gas (CNG),Tennessee,United States,0.06,USD per m3
+514,Diesel,Tennessee,United States,1.14,USD per L
+515,Biodiesel (20%),Tennessee,United States,1.09,USD per L
+516,Ethanol (85%),Tennessee,United States,0.69,USD per L
+517,Motor Gasoline,Texas,United States,0.74,USD per L
+518,Propane,Texas,United States,0.95,USD per L
+519,Biodiesel (100%),Texas,United States,1.38,USD per L
+520,Liquefied Natural Gas (LNG),Texas,United States,2.73,USD per L
+521,Compressed Natural Gas (CNG),Texas,United States,0.07,USD per m3
+522,Diesel,Texas,United States,1.07,USD per L
+523,Biodiesel (20%),Texas,United States,1.11,USD per L
+524,Ethanol (85%),Texas,United States,0.67,USD per L
+525,Motor Gasoline,Utah,United States,0.88,USD per L
+526,Propane,Utah,United States,0.96,USD per L
+527,Biodiesel (100%),Utah,United States,1.38,USD per L
+528,Liquefied Natural Gas (LNG),Utah,United States,3.51,USD per L
+529,Compressed Natural Gas (CNG),Utah,United States,0.07,USD per m3
+530,Diesel,Utah,United States,1.16,USD per L
+531,Biodiesel (20%),Utah,United States,1.33,USD per L
+532,Ethanol (85%),Utah,United States,0.83,USD per L
+533,Motor Gasoline,Vermont,United States,0.84,USD per L
+534,Propane,Vermont,United States,1,USD per L
+535,Biodiesel (100%),Vermont,United States,1.19,USD per L
+536,Liquefied Natural Gas (LNG),Vermont,United States,3.51,USD per L
+537,Compressed Natural Gas (CNG),Vermont,United States,0.1,USD per m3
+538,Diesel,Vermont,United States,1.37,USD per L
+539,Biodiesel (20%),Vermont,United States,1.15,USD per L
+540,Ethanol (85%),Vermont,United States,1.1,USD per L
+541,Motor Gasoline,Virginia,United States,0.86,USD per L
+542,Propane,Virginia,United States,0.92,USD per L
+543,Biodiesel (100%),Virginia,United States,1.45,USD per L
+544,Liquefied Natural Gas (LNG),Virginia,United States,3.57,USD per L
+545,Compressed Natural Gas (CNG),Virginia,United States,0.07,USD per m3
+546,Diesel,Virginia,United States,1.25,USD per L
+547,Biodiesel (20%),Virginia,United States,1.09,USD per L
+548,Ethanol (85%),Virginia,United States,0.78,USD per L
+549,Motor Gasoline,Washington,United States,1.15,USD per L
+550,Propane,Washington,United States,1.04,USD per L
+551,Biodiesel (100%),Washington,United States,1.49,USD per L
+552,Liquefied Natural Gas (LNG),Washington,United States,4.14,USD per L
+553,Compressed Natural Gas (CNG),Washington,United States,0.12,USD per m3
+554,Diesel,Washington,United States,1.44,USD per L
+555,Biodiesel (20%),Washington,United States,1.29,USD per L
+556,Ethanol (85%),Washington,United States,0.87,USD per L
+557,Motor Gasoline,West Virginia,United States,0.86,USD per L
+558,Propane,West Virginia,United States,0.92,USD per L
+559,Biodiesel (100%),West Virginia,United States,1.45,USD per L
+560,Liquefied Natural Gas (LNG),West Virginia,United States,3.57,USD per L
+561,Compressed Natural Gas (CNG),West Virginia,United States,0.07,USD per m3
+562,Diesel,West Virginia,United States,1.25,USD per L
+563,Biodiesel (20%),West Virginia,United States,1.09,USD per L
+564,Ethanol (85%),West Virginia,United States,0.78,USD per L
+565,Motor Gasoline,Wisconsin,United States,0.82,USD per L
+566,Propane,Wisconsin,United States,0.97,USD per L
+567,Biodiesel (100%),Wisconsin,United States,1.38,USD per L
+568,Liquefied Natural Gas (LNG),Wisconsin,United States,2.08,USD per L
+569,Compressed Natural Gas (CNG),Wisconsin,United States,0.06,USD per m3
+570,Diesel,Wisconsin,United States,1.14,USD per L
+571,Biodiesel (20%),Wisconsin,United States,1.09,USD per L
+572,Ethanol (85%),Wisconsin,United States,0.69,USD per L
+573,Motor Gasoline,Wyoming,United States,0.88,USD per L
+574,Propane,Wyoming,United States,0.96,USD per L
+575,Biodiesel (100%),Wyoming,United States,1.38,USD per L
+576,Liquefied Natural Gas (LNG),Wyoming,United States,3.51,USD per L
+577,Compressed Natural Gas (CNG),Wyoming,United States,0.07,USD per m3
+578,Diesel,Wyoming,United States,1.16,USD per L
+579,Biodiesel (20%),Wyoming,United States,1.33,USD per L
+580,Ethanol (85%),Wyoming,United States,0.83,USD per L
+581,Motor Gasoline,Washington D.C,United States,0.85,USD per L
+582,Propane,Washington D.C,United States,0.8,USD per L
+583,Biodiesel (100%),Washington D.C,United States,1.28,USD per L
+584,Liquefied Natural Gas (LNG),Washington D.C,United States,3.51,USD per L
+585,Compressed Natural Gas (CNG),Washington D.C,United States,0.07,USD per m3
+586,Diesel,Washington D.C,United States,1.22,USD per L
+587,Biodiesel (20%),Washington D.C,United States,1.13,USD per L
+588,Ethanol (85%),Washington D.C,United States,0.8,USD per L
+589,Natural Gas,Alberta,Canada,0.08,USD per m3
+590,Kerosene-Type Jet Fuel,Alberta,Canada,1.13,USD per L
+591,Motor Gasoline,Alberta,Canada,1.08,USD per L
+592,Propane,Alberta,Canada,0.62,USD per L
+593,Used Oil,Alberta,Canada,0.51,USD per L
+594,Biodiesel (100%),Alberta,Canada,1.13,USD per L
+595,Ethanol (100%),Alberta,Canada,1.13,USD per L
+596,Diesel,Alberta,Canada,1.2,USD per L
+597,Home Heating Oil,Alberta,Canada,1.15,USD per L
+598,Natural Gas (Business),Alberta,Canada,0.08,USD per m3
+599,Natural Gas,British Columbia,Canada,0.45,USD per m3
+600,Kerosene-Type Jet Fuel,British Columbia,Canada,1.13,USD per L
+601,Motor Gasoline,British Columbia,Canada,1.37,USD per L
+602,Propane,British Columbia,Canada,0.65,USD per L
+603,Used Oil,British Columbia,Canada,0.51,USD per L
+604,Biodiesel (100%),British Columbia,Canada,1.13,USD per L
+605,Ethanol (100%),British Columbia,Canada,1.13,USD per L
+606,Diesel,British Columbia,Canada,1.5,USD per L
+607,Home Heating Oil,British Columbia,Canada,1.15,USD per L
+608,Natural Gas (Business),British Columbia,Canada,0.45,USD per m3
+609,Natural Gas,Manitoba,Canada,0.19,USD per m3
+610,Kerosene-Type Jet Fuel,Manitoba,Canada,1.13,USD per L
+611,Motor Gasoline,Manitoba,Canada,1.23,USD per L
+612,Propane,Manitoba,Canada,0.71,USD per L
+613,Used Oil,Manitoba,Canada,0.51,USD per L
+614,Biodiesel (100%),Manitoba,Canada,1.13,USD per L
+615,Ethanol (100%),Manitoba,Canada,1.13,USD per L
+616,Diesel,Manitoba,Canada,1.37,USD per L
+617,Home Heating Oil,Manitoba,Canada,1,USD per L
+618,Natural Gas (Business),Manitoba,Canada,0.17,USD per m3
+619,Natural Gas,New Brunswick,Canada,0.29,USD per m3
+620,Kerosene-Type Jet Fuel,New Brunswick,Canada,1.13,USD per L
+621,Motor Gasoline,New Brunswick,Canada,1.4,USD per L
+622,Propane,New Brunswick,Canada,0.71,USD per L
+623,Used Oil,New Brunswick,Canada,0.51,USD per L
+624,Biodiesel (100%),New Brunswick,Canada,1.13,USD per L
+625,Ethanol (100%),New Brunswick,Canada,1.13,USD per L
+626,Diesel,New Brunswick,Canada,1.59,USD per L
+627,Home Heating Oil,New Brunswick,Canada,1.07,USD per L
+628,Natural Gas (Business),New Brunswick,Canada,0.19,USD per m3
+629,Natural Gas,Newfoundland and Labrador,Canada,0.26,USD per m3
+630,Kerosene-Type Jet Fuel,Newfoundland and Labrador,Canada,1.13,USD per L
+631,Motor Gasoline,Newfoundland and Labrador,Canada,1.47,USD per L
+632,Propane,Newfoundland and Labrador,Canada,0.71,USD per L
+633,Used Oil,Newfoundland and Labrador,Canada,0.51,USD per L
+634,Biodiesel (100%),Newfoundland and Labrador,Canada,1.13,USD per L
+635,Ethanol (100%),Newfoundland and Labrador,Canada,1.13,USD per L
+636,Diesel,Newfoundland and Labrador,Canada,1.61,USD per L
+637,Home Heating Oil,Newfoundland and Labrador,Canada,0.99,USD per L
+638,Natural Gas (Business),Newfoundland and Labrador,Canada,0.23,USD per m3
+639,Natural Gas,Northwest Territories,Canada,0.26,USD per m3
+640,Kerosene-Type Jet Fuel,Northwest Territories,Canada,1.13,USD per L
+641,Motor Gasoline,Northwest Territories,Canada,1.26,USD per L
+642,Propane,Northwest Territories,Canada,0.71,USD per L
+643,Used Oil,Northwest Territories,Canada,0.51,USD per L
+644,Biodiesel (100%),Northwest Territories,Canada,1.13,USD per L
+645,Ethanol (100%),Northwest Territories,Canada,1.13,USD per L
+646,Diesel,Northwest Territories,Canada,1.38,USD per L
+647,Home Heating Oil,Northwest Territories,Canada,1.04,USD per L
+648,Natural Gas (Business),Northwest Territories,Canada,0.23,USD per m3
+649,Natural Gas,Nova Scotia,Canada,0.73,USD per m3
+650,Kerosene-Type Jet Fuel,Nova Scotia,Canada,1.13,USD per L
+651,Motor Gasoline,Nova Scotia,Canada,1.32,USD per L
+652,Propane,Nova Scotia,Canada,0.71,USD per L
+653,Used Oil,Nova Scotia,Canada,0.51,USD per L
+654,Biodiesel (100%),Nova Scotia,Canada,1.13,USD per L
+655,Ethanol (100%),Nova Scotia,Canada,1.13,USD per L
+656,Diesel,Nova Scotia,Canada,1.59,USD per L
+657,Home Heating Oil,Nova Scotia,Canada,0.97,USD per L
+658,Natural Gas (Business),Nova Scotia,Canada,0.54,USD per m3
+659,Natural Gas,Nunavut,Canada,0.26,USD per m3
+660,Kerosene-Type Jet Fuel,Nunavut,Canada,1.13,USD per L
+661,Motor Gasoline,Nunavut,Canada,1.29,USD per L
+662,Propane,Nunavut,Canada,0.71,USD per L
+663,Used Oil,Nunavut,Canada,0.51,USD per L
+664,Biodiesel (100%),Nunavut,Canada,1.13,USD per L
+665,Ethanol (100%),Nunavut,Canada,1.13,USD per L
+666,Diesel,Nunavut,Canada,1.47,USD per L
+667,Home Heating Oil,Nunavut,Canada,1.04,USD per L
+668,Natural Gas (Business),Nunavut,Canada,0.23,USD per m3
+669,Natural Gas,Ontario,Canada,0.13,USD per m3
+670,Kerosene-Type Jet Fuel,Ontario,Canada,1.13,USD per L
+671,Motor Gasoline,Ontario,Canada,1.2,USD per L
+672,Propane,Ontario,Canada,0.77,USD per L
+673,Used Oil,Ontario,Canada,0.51,USD per L
+674,Biodiesel (100%),Ontario,Canada,1.13,USD per L
+675,Ethanol (100%),Ontario,Canada,1.13,USD per L
+676,Diesel,Ontario,Canada,1.38,USD per L
+677,Home Heating Oil,Ontario,Canada,1.15,USD per L
+678,Natural Gas (Business),Ontario,Canada,0.05,USD per m3
+679,Natural Gas,Prince Edward Island,Canada,0.26,USD per m3
+680,Kerosene-Type Jet Fuel,Prince Edward Island,Canada,1.13,USD per L
+681,Motor Gasoline,Prince Edward Island,Canada,1.36,USD per L
+682,Propane,Prince Edward Island,Canada,0.77,USD per L
+683,Used Oil,Prince Edward Island,Canada,0.51,USD per L
+684,Biodiesel (100%),Prince Edward Island,Canada,1.13,USD per L
+685,Ethanol (100%),Prince Edward Island,Canada,1.13,USD per L
+686,Diesel,Prince Edward Island,Canada,1.59,USD per L
+687,Home Heating Oil,Prince Edward Island,Canada,0.87,USD per L
+688,Natural Gas (Business),Prince Edward Island,Canada,0.23,USD per m3
+689,Natural Gas,Quebec,Canada,0.11,USD per m3
+690,Kerosene-Type Jet Fuel,Quebec,Canada,1.13,USD per L
+691,Motor Gasoline,Quebec,Canada,1.34,USD per L
+692,Propane,Quebec,Canada,0.63,USD per L
+693,Used Oil,Quebec,Canada,0.51,USD per L
+694,Biodiesel (100%),Quebec,Canada,1.13,USD per L
+695,Ethanol (100%),Quebec,Canada,1.13,USD per L
+696,Diesel,Quebec,Canada,1.55,USD per L
+697,Home Heating Oil,Quebec,Canada,1.06,USD per L
+698,Natural Gas (Business),Quebec,Canada,0.11,USD per m3
+699,Natural Gas,Saskatchewan,Canada,0.13,USD per m3
+700,Kerosene-Type Jet Fuel,Saskatchewan,Canada,1.13,USD per L
+701,Motor Gasoline,Saskatchewan,Canada,1.2,USD per L
+702,Propane,Saskatchewan,Canada,0.74,USD per L
+703,Used Oil,Saskatchewan,Canada,0.51,USD per L
+704,Biodiesel (100%),Saskatchewan,Canada,1.13,USD per L
+705,Ethanol (100%),Saskatchewan,Canada,1.13,USD per L
+706,Diesel,Saskatchewan,Canada,1.34,USD per L
+707,Home Heating Oil,Saskatchewan,Canada,0.96,USD per L
+708,Natural Gas (Business),Saskatchewan,Canada,0.13,USD per m3
+709,Natural Gas,Yukon,Canada,0.26,USD per m3
+710,Kerosene-Type Jet Fuel,Yukon,Canada,1.13,USD per L
+711,Motor Gasoline,Yukon,Canada,1.45,USD per L
+712,Propane,Yukon,Canada,0.82,USD per L
+713,Used Oil,Yukon,Canada,0.51,USD per L
+714,Biodiesel (100%),Yukon,Canada,1.13,USD per L
+715,Ethanol (100%),Yukon,Canada,1.13,USD per L
+716,Diesel,Yukon,Canada,1.5,USD per L
+717,Home Heating Oil,Yukon,Canada,1.11,USD per L
+718,Natural Gas (Business),Yukon,Canada,0.23,USD per m3
+719,Home Heating Oil,Alabama,United States,1.1,USD per L
+720,Home Heating Oil,Alaska,United States,1.1,USD per L
+721,Home Heating Oil,Arizona,United States,1.1,USD per L
+722,Home Heating Oil,Arkansas,United States,1.1,USD per L
+723,Home Heating Oil,California,United States,1.1,USD per L
+724,Home Heating Oil,Colorado,United States,1.1,USD per L
+725,Home Heating Oil,Connecticut,United States,1.1,USD per L
+726,Home Heating Oil,Delaware,United States,1.1,USD per L
+727,Home Heating Oil,Florida,United States,1.1,USD per L
+728,Home Heating Oil,Georgia,United States,1.1,USD per L
+729,Home Heating Oil,Hawaii,United States,1.1,USD per L
+730,Home Heating Oil,Idaho,United States,1.1,USD per L
+731,Home Heating Oil,Illinois,United States,1.1,USD per L
+732,Home Heating Oil,Indiana,United States,1.1,USD per L
+733,Home Heating Oil,Iowa,United States,1.1,USD per L
+734,Home Heating Oil,Kansas,United States,1.1,USD per L
+735,Home Heating Oil,Kentucky,United States,1.1,USD per L
+736,Home Heating Oil,Louisiana,United States,1.1,USD per L
+737,Home Heating Oil,Maine,United States,1.1,USD per L
+738,Home Heating Oil,Maryland,United States,1.1,USD per L
+739,Home Heating Oil,Massachusetts,United States,1.1,USD per L
+740,Home Heating Oil,Michigan,United States,1.1,USD per L
+741,Home Heating Oil,Minnesota,United States,1.1,USD per L
+742,Home Heating Oil,Mississippi,United States,1.1,USD per L
+743,Home Heating Oil,Missouri,United States,1.1,USD per L
+744,Home Heating Oil,Montana,United States,1.1,USD per L
+745,Home Heating Oil,Nebraska,United States,1.1,USD per L
+746,Home Heating Oil,Nevada,United States,1.1,USD per L
+747,Home Heating Oil,New Hampshire,United States,1.1,USD per L
+748,Home Heating Oil,New Jersey,United States,1.1,USD per L
+749,Home Heating Oil,New Mexico,United States,1.1,USD per L
+750,Home Heating Oil,New York,United States,1.1,USD per L
+751,Home Heating Oil,North Carolina,United States,1.1,USD per L
+752,Home Heating Oil,North Dakota,United States,1.1,USD per L
+753,Home Heating Oil,Ohio,United States,1.1,USD per L
+754,Home Heating Oil,Oklahoma,United States,1.1,USD per L
+755,Home Heating Oil,Oregon,United States,1.1,USD per L
+756,Home Heating Oil,Pennsylvania,United States,1.1,USD per L
+757,Home Heating Oil,Rhode Island,United States,1.1,USD per L
+758,Home Heating Oil,South Carolina,United States,1.1,USD per L
+759,Home Heating Oil,South Dakota,United States,1.1,USD per L
+760,Home Heating Oil,Tennessee,United States,1.1,USD per L
+761,Home Heating Oil,Texas,United States,1.1,USD per L
+762,Home Heating Oil,Utah,United States,1.1,USD per L
+763,Home Heating Oil,Vermont,United States,1.1,USD per L
+764,Home Heating Oil,Virginia,United States,1.1,USD per L
+765,Home Heating Oil,Washington,United States,1.1,USD per L
+766,Home Heating Oil,Washington D.C,United States,1.1,USD per L
+767,Home Heating Oil,West Virginia,United States,1.1,USD per L
+768,Home Heating Oil,Wisconsin,United States,1.1,USD per L
+769,Home Heating Oil,Wyoming,United States,1.1,USD per L
+770,Home Heating Oil,Alabama,United States,0.79,USD per L
+771,Home Heating Oil,Alaska,United States,0.79,USD per L
+772,Home Heating Oil,Arizona,United States,0.79,USD per L
+773,Home Heating Oil,Arkansas,United States,0.79,USD per L
+774,Home Heating Oil,California,United States,0.79,USD per L
+775,Home Heating Oil,Colorado,United States,0.79,USD per L
+776,Home Heating Oil,Connecticut,United States,0.79,USD per L
+777,Home Heating Oil,Delaware,United States,0.79,USD per L
+778,Home Heating Oil,Florida,United States,0.79,USD per L
+779,Home Heating Oil,Georgia,United States,0.79,USD per L
+780,Home Heating Oil,Hawaii,United States,0.79,USD per L
+781,Home Heating Oil,Idaho,United States,0.79,USD per L
+782,Home Heating Oil,Illinois,United States,0.79,USD per L
+783,Home Heating Oil,Indiana,United States,0.79,USD per L
+784,Home Heating Oil,Iowa,United States,0.79,USD per L
+785,Home Heating Oil,Kansas,United States,0.79,USD per L
+786,Home Heating Oil,Kentucky,United States,0.79,USD per L
+787,Home Heating Oil,Louisiana,United States,0.79,USD per L
+788,Home Heating Oil,Maine,United States,0.79,USD per L
+789,Home Heating Oil,Maryland,United States,0.79,USD per L
+790,Home Heating Oil,Massachusetts,United States,0.79,USD per L
+791,Home Heating Oil,Michigan,United States,0.79,USD per L
+792,Home Heating Oil,Minnesota,United States,0.79,USD per L
+793,Home Heating Oil,Mississippi,United States,0.79,USD per L
+794,Home Heating Oil,Missouri,United States,0.79,USD per L
+795,Home Heating Oil,Montana,United States,0.79,USD per L
+796,Home Heating Oil,Nebraska,United States,0.79,USD per L
+797,Home Heating Oil,Nevada,United States,0.79,USD per L
+798,Home Heating Oil,New Hampshire,United States,0.79,USD per L
+799,Home Heating Oil,New Jersey,United States,0.79,USD per L
+800,Home Heating Oil,New Mexico,United States,0.79,USD per L
+801,Home Heating Oil,New York,United States,0.79,USD per L
+802,Home Heating Oil,North Carolina,United States,0.79,USD per L
+803,Home Heating Oil,North Dakota,United States,0.79,USD per L
+804,Home Heating Oil,Ohio,United States,0.79,USD per L
+805,Home Heating Oil,Oklahoma,United States,0.79,USD per L
+806,Home Heating Oil,Oregon,United States,0.79,USD per L
+807,Home Heating Oil,Pennsylvania,United States,0.79,USD per L
+808,Home Heating Oil,Rhode Island,United States,0.79,USD per L
+809,Home Heating Oil,South Carolina,United States,0.79,USD per L
+810,Home Heating Oil,South Dakota,United States,0.79,USD per L
+811,Home Heating Oil,Tennessee,United States,0.79,USD per L
+812,Home Heating Oil,Texas,United States,0.79,USD per L
+813,Home Heating Oil,Utah,United States,0.79,USD per L
+814,Home Heating Oil,Vermont,United States,0.79,USD per L
+815,Home Heating Oil,Virginia,United States,0.79,USD per L
+816,Home Heating Oil,Washington,United States,0.79,USD per L
+817,Home Heating Oil,Washington D.C,United States,0.79,USD per L
+818,Home Heating Oil,West Virginia,United States,0.79,USD per L
+819,Home Heating Oil,Wisconsin,United States,0.79,USD per L
+820,Home Heating Oil,Wyoming,United States,0.79,USD per L
+821,Natural Gas,Alabama,United States,0.72,USD per m3
+822,Natural Gas,Alaska,United States,0.39,USD per m3
+823,Natural Gas,Arizona,United States,0.7,USD per m3
+824,Natural Gas,Arkansas,United States,0.49,USD per m3
+825,Natural Gas,California,United States,0.64,USD per m3
+826,Natural Gas,Colorado,United States,0.4,USD per m3
+827,Natural Gas,Connecticut,United States,0.69,USD per m3
+828,Natural Gas,Delaware,United States,0.62,USD per m3
+829,Natural Gas,Florida,United States,0.8,USD per m3
+830,Natural Gas,Georgia,United States,0.62,USD per m3
+831,Natural Gas,Hawaii,United States,1.93,USD per m3
+832,Natural Gas,Idaho,United States,0.36,USD per m3
+833,Natural Gas,Illinois,United States,0.37,USD per m3
+834,Natural Gas,Indiana,United States,0.35,USD per m3
+835,Natural Gas,Iowa,United States,0.39,USD per m3
+836,Natural Gas,Kansas,United States,0.61,USD per m3
+837,Natural Gas,Kentucky,United States,0.6,USD per m3
+838,Natural Gas,Louisiana,United States,0.58,USD per m3
+839,Natural Gas,Maine,United States,0.69,USD per m3
+840,Natural Gas,Maryland,United States,0.56,USD per m3
+841,Natural Gas,Massachusetts,United States,0.75,USD per m3
+842,Natural Gas,Michigan,United States,0.41,USD per m3
+843,Natural Gas,Minnesota,United States,0.45,USD per m3
+844,Natural Gas,Mississippi,United States,0.58,USD per m3
+845,Natural Gas,Missouri,United States,0.6,USD per m3
+846,Natural Gas,Montana,United States,0.34,USD per m3
+847,Natural Gas,Nebraska,United States,0.4,USD per m3
+848,Natural Gas,Nevada,United States,0.54,USD per m3
+849,Natural Gas,New Hampshire,United States,0.55,USD per m3
+850,Natural Gas,New Jersey,United States,0.47,USD per m3
+851,Natural Gas,New Mexico,United States,0.18,USD per m3
+852,Natural Gas,New York,United States,0.56,USD per m3
+853,Natural Gas,North Carolina,United States,0.62,USD per m3
+854,Natural Gas,North Dakota,United States,0.28,USD per m3
+855,Natural Gas,Ohio,United States,0.45,USD per m3
+856,Natural Gas,Oklahoma,United States,0.55,USD per m3
+857,Natural Gas,Oregon,United States,0.56,USD per m3
+858,Natural Gas,Pennsylvania,United States,0.53,USD per m3
+859,Natural Gas,Rhode Island,United States,0.71,USD per m3
+860,Natural Gas,South Carolina,United States,0.62,USD per m3
+861,Natural Gas,South Dakota,United States,0.33,USD per m3
+862,Natural Gas,Tennessee,United States,0.33,USD per m3
+863,Natural Gas,Texas,United States,0.62,USD per m3
+864,Natural Gas,Utah,United States,0.46,USD per m3
+865,Natural Gas,Vermont,United States,0.57,USD per m3
+866,Natural Gas,Virginia,United States,0.64,USD per m3
+867,Natural Gas,Washington,United States,0.54,USD per m3
+868,Natural Gas,Washington D.C,United States,0.54,USD per m3
+869,Natural Gas,West Virginia,United States,0.58,USD per m3
+870,Natural Gas,Wisconsin,United States,0.28,USD per m3
+871,Natural Gas,Wyoming,United States,0.46,USD per m3
+872,Natural Gas (Business),Alabama,United States,0.55,USD per m3
+873,Natural Gas (Business),Alaska,United States,0.37,USD per m3
+874,Natural Gas (Business),Arizona,United States,0.45,USD per m3
+875,Natural Gas (Business),Arkansas,United States,0.36,USD per m3
+876,Natural Gas (Business),California,United States,0.4,USD per m3
+877,Natural Gas (Business),Colorado,United States,0.37,USD per m3
+878,Natural Gas (Business),Connecticut,United States,0.49,USD per m3
+879,Natural Gas (Business),Delaware,United States,0.54,USD per m3
+880,Natural Gas (Business),Florida,United States,0.47,USD per m3
+881,Natural Gas (Business),Georgia,United States,0.34,USD per m3
+882,Natural Gas (Business),Hawaii,United States,1.4,USD per m3
+883,Natural Gas (Business),Idaho,United States,0.36,USD per m3
+884,Natural Gas (Business),Illinois,United States,0.43,USD per m3
+885,Natural Gas (Business),Indiana,United States,0.31,USD per m3
+886,Natural Gas (Business),Iowa,United States,0.32,USD per m3
+887,Natural Gas (Business),Kansas,United States,0.58,USD per m3
+888,Natural Gas (Business),Kentucky,United States,0.5,USD per m3
+889,Natural Gas (Business),Louisiana,United States,0.34,USD per m3
+890,Natural Gas (Business),Maine,United States,0.48,USD per m3
+891,Natural Gas (Business),Maryland,United States,0.43,USD per m3
+892,Natural Gas (Business),Massachusetts,United States,0.5,USD per m3
+893,Natural Gas (Business),Michigan,United States,0.37,USD per m3
+894,Natural Gas (Business),Minnesota,United States,0.56,USD per m3
+895,Natural Gas (Business),Mississippi,United States,0.37,USD per m3
+896,Natural Gas (Business),Missouri,United States,0.5,USD per m3
+897,Natural Gas (Business),Montana,United States,0.33,USD per m3
+898,Natural Gas (Business),Nebraska,United States,0.28,USD per m3
+899,Natural Gas (Business),Nevada,United States,0.5,USD per m3
+900,Natural Gas (Business),New Hampshire,United States,0.5,USD per m3
+901,Natural Gas (Business),New Jersey,United States,0.33,USD per m3
+902,Natural Gas (Business),New Mexico,United States,0.16,USD per m3
+903,Natural Gas (Business),New York,United States,0.29,USD per m3
+904,Natural Gas (Business),North Carolina,United States,0.35,USD per m3
+905,Natural Gas (Business),North Dakota,United States,0.23,USD per m3
+906,Natural Gas (Business),Ohio,United States,0.28,USD per m3
+907,Natural Gas (Business),Oklahoma,United States,0.41,USD per m3
+908,Natural Gas (Business),Oregon,United States,0.48,USD per m3
+909,Natural Gas (Business),Pennsylvania,United States,0.41,USD per m3
+910,Natural Gas (Business),Rhode Island,United States,0.64,USD per m3
+911,Natural Gas (Business),South Carolina,United States,0.36,USD per m3
+912,Natural Gas (Business),South Dakota,United States,0.27,USD per m3
+913,Natural Gas (Business),Tennessee,United States,0.28,USD per m3
+914,Natural Gas (Business),Texas,United States,0.33,USD per m3
+915,Natural Gas (Business),Utah,United States,0.43,USD per m3
+916,Natural Gas (Business),Vermont,United States,0.27,USD per m3
+917,Natural Gas (Business),Virginia,United States,0.37,USD per m3
+918,Natural Gas (Business),Washington,United States,0.49,USD per m3
+919,Natural Gas (Business),Washington D.C,United States,0.47,USD per m3
+920,Natural Gas (Business),West Virginia,United States,0.53,USD per m3
+921,Natural Gas (Business),Wisconsin,United States,0.25,USD per m3
+922,Natural Gas (Business),Wyoming,United States,0.42,USD per m3
+923,Hybrid,Alabama,United States,0.44,USD per L
+924,Hybrid,Alaska,United States,0.69,USD per L
+925,Hybrid,Arizona,United States,0.69,USD per L
+926,Hybrid,Arkansas,United States,0.44,USD per L
+927,Hybrid,California,United States,0.69,USD per L
+928,Hybrid,Colorado,United States,0.53,USD per L
+929,Hybrid,Connecticut,United States,0.5,USD per L
+930,Hybrid,Delaware,United States,0.51,USD per L
+931,Hybrid,Florida,United States,0.52,USD per L
+932,Hybrid,Georgia,United States,0.52,USD per L
+933,Hybrid,Hawaii,United States,0.69,USD per L
+934,Hybrid,Idaho,United States,0.53,USD per L
+935,Hybrid,Illinois,United States,0.49,USD per L
+936,Hybrid,Indiana,United States,0.49,USD per L
+937,Hybrid,Iowa,United States,0.49,USD per L
+938,Hybrid,Kansas,United States,0.49,USD per L
+939,Hybrid,Kentucky,United States,0.49,USD per L
+940,Hybrid,Louisiana,United States,0.44,USD per L
+941,Hybrid,Maine,United States,0.5,USD per L
+942,Hybrid,Maryland,United States,0.51,USD per L
+943,Hybrid,Massachusetts,United States,0.5,USD per L
+944,Hybrid,Michigan,United States,0.49,USD per L
+945,Hybrid,Minnesota,United States,0.49,USD per L
+946,Hybrid,Mississippi,United States,0.44,USD per L
+947,Hybrid,Missouri,United States,0.49,USD per L
+948,Hybrid,Montana,United States,0.53,USD per L
+949,Hybrid,Nebraska,United States,0.49,USD per L
+950,Hybrid,Nevada,United States,0.69,USD per L
+951,Hybrid,New Hampshire,United States,0.5,USD per L
+952,Hybrid,New Jersey,United States,0.51,USD per L
+953,Hybrid,New Mexico,United States,0.44,USD per L
+954,Hybrid,New York,United States,0.51,USD per L
+955,Hybrid,North Carolina,United States,0.52,USD per L
+956,Hybrid,North Dakota,United States,0.49,USD per L
+957,Hybrid,Ohio,United States,0.49,USD per L
+958,Hybrid,Oklahoma,United States,0.49,USD per L
+959,Hybrid,Oregon,United States,0.69,USD per L
+960,Hybrid,Pennsylvania,United States,0.51,USD per L
+961,Hybrid,Rhode Island,United States,0.5,USD per L
+962,Hybrid,South Carolina,United States,0.52,USD per L
+963,Hybrid,South Dakota,United States,0.49,USD per L
+964,Hybrid,Tennessee,United States,0.49,USD per L
+965,Hybrid,Texas,United States,0.44,USD per L
+966,Hybrid,Utah,United States,0.53,USD per L
+967,Hybrid,Vermont,United States,0.5,USD per L
+968,Hybrid,Virginia,United States,0.52,USD per L
+969,Hybrid,Washington,United States,0.69,USD per L
+970,Hybrid,West Virginia,United States,0.52,USD per L
+971,Hybrid,Wisconsin,United States,0.49,USD per L
+972,Hybrid,Wyoming,United States,0.53,USD per L
+973,Hybrid,Washington D.C,United States,0.51,USD per L
+974,Hybrid,Alberta,Canada,0.65,USD per L
+975,Hybrid,British Columbia,Canada,0.82,USD per L
+976,Hybrid,Manitoba,Canada,0.74,USD per L
+977,Hybrid,New Brunswick,Canada,0.84,USD per L
+978,Hybrid,Newfoundland and Labrador,Canada,0.88,USD per L
+979,Hybrid,Northwest Territories,Canada,0.76,USD per L
+980,Hybrid,Nova Scotia,Canada,0.79,USD per L
+981,Hybrid,Nunavut,Canada,0.77,USD per L
+982,Hybrid,Ontario,Canada,0.72,USD per L
+983,Hybrid,Prince Edward Island,Canada,0.82,USD per L
+984,Hybrid,Quebec,Canada,0.8,USD per L
+985,Hybrid,Saskatchewan,Canada,0.72,USD per L
+986,Hybrid,Yukon,Canada,0.87,USD per L
+987,Compressed Natural Gas (CNG),Alberta,Canada,0.07,USD per m3
+988,Compressed Natural Gas (CNG),British Columbia,Canada,0.07,USD per m3
+989,Compressed Natural Gas (CNG),Manitoba,Canada,0.07,USD per m3
+990,Compressed Natural Gas (CNG),New Brunswick,Canada,0.07,USD per m3
+991,Compressed Natural Gas (CNG),Newfoundland and Labrador,Canada,0.07,USD per m3
+992,Compressed Natural Gas (CNG),Northwest Territories,Canada,0.07,USD per m3
+993,Compressed Natural Gas (CNG),Nova Scotia,Canada,0.07,USD per m3
+994,Compressed Natural Gas (CNG),Nunavut,Canada,0.07,USD per m3
+995,Compressed Natural Gas (CNG),Ontario,Canada,0.07,USD per m3
+996,Compressed Natural Gas (CNG),Prince Edward Island,Canada,0.07,USD per m3
+997,Compressed Natural Gas (CNG),Quebec,Canada,0.07,USD per m3
+998,Compressed Natural Gas (CNG),Saskatchewan,Canada,0.07,USD per m3
+999,Compressed Natural Gas (CNG),Yukon,Canada,0.07,USD per m3
+1000,Liquefied Natural Gas (LNG),Alberta,Canada,3.08,USD per L
+1001,Liquefied Natural Gas (LNG),British Columbia,Canada,3.08,USD per L
+1002,Liquefied Natural Gas (LNG),Manitoba,Canada,3.08,USD per L
+1003,Liquefied Natural Gas (LNG),New Brunswick,Canada,3.08,USD per L
+1004,Liquefied Natural Gas (LNG),Newfoundland and Labrador,Canada,3.08,USD per L
+1005,Liquefied Natural Gas (LNG),Northwest Territories,Canada,3.08,USD per L
+1006,Liquefied Natural Gas (LNG),Nova Scotia,Canada,3.08,USD per L
+1007,Liquefied Natural Gas (LNG),Nunavut,Canada,3.08,USD per L
+1008,Liquefied Natural Gas (LNG),Ontario,Canada,3.08,USD per L
+1009,Liquefied Natural Gas (LNG),Prince Edward Island,Canada,3.08,USD per L
+1010,Liquefied Natural Gas (LNG),Quebec,Canada,3.08,USD per L
+1011,Liquefied Natural Gas (LNG),Saskatchewan,Canada,3.08,USD per L
+1012,Liquefied Natural Gas (LNG),Yukon,Canada,3.08,USD per L
+1013,Biodiesel (20%),Alberta,Canada,1.15,USD per L
+1014,Biodiesel (20%),British Columbia,Canada,1.15,USD per L
+1015,Biodiesel (20%),Manitoba,Canada,1.15,USD per L
+1016,Biodiesel (20%),New Brunswick,Canada,1.15,USD per L
+1017,Biodiesel (20%),Newfoundland and Labrador,Canada,1.15,USD per L
+1018,Biodiesel (20%),Northwest Territories,Canada,1.15,USD per L
+1019,Biodiesel (20%),Nova Scotia,Canada,1.15,USD per L
+1020,Biodiesel (20%),Nunavut,Canada,1.15,USD per L
+1021,Biodiesel (20%),Ontario,Canada,1.15,USD per L
+1022,Biodiesel (20%),Prince Edward Island,Canada,1.13,USD per L
+1023,Biodiesel (20%),Quebec,Canada,1.15,USD per L
+1024,Biodiesel (20%),Saskatchewan,Canada,1.15,USD per L
+1025,Biodiesel (20%),Yukon,Canada,1.15,USD per L
+1026,Ethanol (85%),Alberta,Canada,0.79,USD per L
+1027,Ethanol (85%),British Columbia,Canada,0.79,USD per L
+1028,Ethanol (85%),Manitoba,Canada,0.79,USD per L
+1029,Ethanol (85%),New Brunswick,Canada,0.79,USD per L
+1030,Ethanol (85%),Newfoundland and Labrador,Canada,0.79,USD per L
+1031,Ethanol (85%),Northwest Territories,Canada,0.79,USD per L
+1032,Ethanol (85%),Nova Scotia,Canada,1.13,USD per L
+1033,Ethanol (85%),Nunavut,Canada,0.79,USD per L
+1034,Ethanol (85%),Ontario,Canada,0.79,USD per L
+1035,Ethanol (85%),Prince Edward Island,Canada,1.13,USD per L
+1036,Ethanol (85%),Quebec,Canada,0.79,USD per L
+1037,Ethanol (85%),Saskatchewan,Canada,0.79,USD per L
+1038,Ethanol (85%),Yukon,Canada,0.79,USD per L
+1039,Anthracite Coal,Alabama,United States,0.17,USD per kg
+1040,Anthracite Coal,Alaska,United States,0.17,USD per kg
+1041,Anthracite Coal,Arizona,United States,0.17,USD per kg
+1042,Anthracite Coal,Arkansas,United States,0.17,USD per kg
+1043,Anthracite Coal,California,United States,0.17,USD per kg
+1044,Anthracite Coal,Colorado,United States,0.17,USD per kg
+1045,Anthracite Coal,Connecticut,United States,0.17,USD per kg
+1046,Anthracite Coal,Delaware,United States,0.17,USD per kg
+1047,Anthracite Coal,Florida,United States,0.17,USD per kg
+1048,Anthracite Coal,Georgia,United States,0.17,USD per kg
+1049,Anthracite Coal,Hawaii,United States,0.17,USD per kg
+1050,Anthracite Coal,Idaho,United States,0.17,USD per kg
+1051,Anthracite Coal,Illinois,United States,0.17,USD per kg
+1052,Anthracite Coal,Indiana,United States,0.17,USD per kg
+1053,Anthracite Coal,Iowa,United States,0.17,USD per kg
+1054,Anthracite Coal,Kansas,United States,0.17,USD per kg
+1055,Anthracite Coal,Kentucky,United States,0.17,USD per kg
+1056,Anthracite Coal,Louisiana,United States,0.17,USD per kg
+1057,Anthracite Coal,Maine,United States,0.17,USD per kg
+1058,Anthracite Coal,Maryland,United States,0.17,USD per kg
+1059,Anthracite Coal,Massachusetts,United States,0.17,USD per kg
+1060,Anthracite Coal,Michigan,United States,0.17,USD per kg
+1061,Anthracite Coal,Minnesota,United States,0.17,USD per kg
+1062,Anthracite Coal,Mississippi,United States,0.17,USD per kg
+1063,Anthracite Coal,Missouri,United States,0.17,USD per kg
+1064,Anthracite Coal,Montana,United States,0.17,USD per kg
+1065,Anthracite Coal,Nebraska,United States,0.17,USD per kg
+1066,Anthracite Coal,Nevada,United States,0.17,USD per kg
+1067,Anthracite Coal,New Hampshire,United States,0.17,USD per kg
+1068,Anthracite Coal,New Jersey,United States,0.17,USD per kg
+1069,Anthracite Coal,New Mexico,United States,0.17,USD per kg
+1070,Anthracite Coal,New York,United States,0.17,USD per kg
+1071,Anthracite Coal,North Carolina,United States,0.17,USD per kg
+1072,Anthracite Coal,North Dakota,United States,0.17,USD per kg
+1073,Anthracite Coal,Ohio,United States,0.17,USD per kg
+1074,Anthracite Coal,Oklahoma,United States,0.17,USD per kg
+1075,Anthracite Coal,Oregon,United States,0.17,USD per kg
+1076,Anthracite Coal,Pennsylvania,United States,0.17,USD per kg
+1077,Anthracite Coal,Rhode Island,United States,0.17,USD per kg
+1078,Anthracite Coal,South Carolina,United States,0.17,USD per kg
+1079,Anthracite Coal,South Dakota,United States,0.17,USD per kg
+1080,Anthracite Coal,Tennessee,United States,0.17,USD per kg
+1081,Anthracite Coal,Texas,United States,0.17,USD per kg
+1082,Anthracite Coal,Utah,United States,0.17,USD per kg
+1083,Anthracite Coal,Vermont,United States,0.17,USD per kg
+1084,Anthracite Coal,Virginia,United States,0.17,USD per kg
+1085,Anthracite Coal,Washington,United States,0.17,USD per kg
+1086,Anthracite Coal,Washington D.C,United States,0.17,USD per kg
+1087,Anthracite Coal,West Virginia,United States,0.17,USD per kg
+1088,Anthracite Coal,Wisconsin,United States,0.17,USD per kg
+1089,Anthracite Coal,Wyoming,United States,0.17,USD per kg
+1090,Anthracite Coal,Alabama,United States,0.17,USD per kg
+1091,Anthracite Coal,Alaska,United States,0.17,USD per kg
+1092,Anthracite Coal,Arizona,United States,0.17,USD per kg
+1093,Anthracite Coal,Arkansas,United States,0.17,USD per kg
+1094,Anthracite Coal,California,United States,0.17,USD per kg
+1095,Anthracite Coal,Colorado,United States,0.17,USD per kg
+1096,Anthracite Coal,Connecticut,United States,0.17,USD per kg
+1097,Anthracite Coal,Delaware,United States,0.17,USD per kg
+1098,Anthracite Coal,Florida,United States,0.17,USD per kg
+1099,Anthracite Coal,Georgia,United States,0.17,USD per kg
+1100,Anthracite Coal,Hawaii,United States,0.17,USD per kg
+1101,Anthracite Coal,Idaho,United States,0.17,USD per kg
+1102,Anthracite Coal,Illinois,United States,0.17,USD per kg
+1103,Anthracite Coal,Indiana,United States,0.17,USD per kg
+1104,Anthracite Coal,Iowa,United States,0.17,USD per kg
+1105,Anthracite Coal,Kansas,United States,0.17,USD per kg
+1106,Anthracite Coal,Kentucky,United States,0.17,USD per kg
+1107,Anthracite Coal,Louisiana,United States,0.17,USD per kg
+1108,Anthracite Coal,Maine,United States,0.17,USD per kg
+1109,Anthracite Coal,Maryland,United States,0.17,USD per kg
+1110,Anthracite Coal,Massachusetts,United States,0.17,USD per kg
+1111,Anthracite Coal,Michigan,United States,0.17,USD per kg
+1112,Anthracite Coal,Minnesota,United States,0.17,USD per kg
+1113,Anthracite Coal,Mississippi,United States,0.17,USD per kg
+1114,Anthracite Coal,Missouri,United States,0.17,USD per kg
+1115,Anthracite Coal,Montana,United States,0.17,USD per kg
+1116,Anthracite Coal,Nebraska,United States,0.17,USD per kg
+1117,Anthracite Coal,Nevada,United States,0.17,USD per kg
+1118,Anthracite Coal,New Hampshire,United States,0.17,USD per kg
+1119,Anthracite Coal,New Jersey,United States,0.17,USD per kg
+1120,Anthracite Coal,New Mexico,United States,0.17,USD per kg
+1121,Anthracite Coal,New York,United States,0.17,USD per kg
+1122,Anthracite Coal,North Carolina,United States,0.17,USD per kg
+1123,Anthracite Coal,North Dakota,United States,0.17,USD per kg
+1124,Anthracite Coal,Ohio,United States,0.17,USD per kg
+1125,Anthracite Coal,Oklahoma,United States,0.17,USD per kg
+1126,Anthracite Coal,Oregon,United States,0.17,USD per kg
+1127,Anthracite Coal,Pennsylvania,United States,0.17,USD per kg
+1128,Anthracite Coal,Rhode Island,United States,0.17,USD per kg
+1129,Anthracite Coal,South Carolina,United States,0.17,USD per kg
+1130,Anthracite Coal,South Dakota,United States,0.17,USD per kg
+1131,Anthracite Coal,Tennessee,United States,0.17,USD per kg
+1132,Anthracite Coal,Texas,United States,0.17,USD per kg
+1133,Anthracite Coal,Utah,United States,0.17,USD per kg
+1134,Anthracite Coal,Vermont,United States,0.17,USD per kg
+1135,Anthracite Coal,Virginia,United States,0.17,USD per kg
+1136,Anthracite Coal,Washington,United States,0.17,USD per kg
+1137,Anthracite Coal,Washington D.C,United States,0.17,USD per kg
+1138,Anthracite Coal,West Virginia,United States,0.17,USD per kg
+1139,Anthracite Coal,Wisconsin,United States,0.17,USD per kg
+1140,Anthracite Coal,Wyoming,United States,0.17,USD per kg
+1141,Anthracite Coal,Alberta,Canada,0.17,USD per kg
+1142,Anthracite Coal,British Columbia,Canada,0.17,USD per kg
+1143,Anthracite Coal,Manitoba,Canada,0.17,USD per kg
+1144,Anthracite Coal,New Brunswick,Canada,0.17,USD per kg
+1145,Anthracite Coal,Newfoundland and Labrador,Canada,0.17,USD per kg
+1146,Anthracite Coal,Northwest Territories,Canada,0.17,USD per kg
+1147,Anthracite Coal,Nova Scotia,Canada,0.17,USD per kg
+1148,Anthracite Coal,Nunavut,Canada,0.17,USD per kg
+1149,Anthracite Coal,Ontario,Canada,0.17,USD per kg
+1150,Anthracite Coal,Prince Edward Island,Canada,0.17,USD per kg
+1151,Anthracite Coal,Quebec,Canada,0.17,USD per kg
+1152,Anthracite Coal,Saskatchewan,Canada,0.17,USD per kg
+1153,Anthracite Coal,Yukon,Canada,0.17,USD per kg
+1154,Bituminous Coal,Alabama,United States,0.3,USD per kg
+1155,Bituminous Coal,Alaska,United States,0.11,USD per kg
+1156,Bituminous Coal,Arizona,United States,0.11,USD per kg
+1157,Bituminous Coal,Arkansas,United States,0.11,USD per kg
+1158,Bituminous Coal,California,United States,0.11,USD per kg
+1159,Bituminous Coal,Colorado,United States,0.11,USD per kg
+1160,Bituminous Coal,Connecticut,United States,0.11,USD per kg
+1161,Bituminous Coal,Delaware,United States,0.11,USD per kg
+1162,Bituminous Coal,Florida,United States,0.11,USD per kg
+1163,Bituminous Coal,Georgia,United States,0.11,USD per kg
+1164,Bituminous Coal,Hawaii,United States,0.11,USD per kg
+1165,Bituminous Coal,Idaho,United States,0.11,USD per kg
+1166,Bituminous Coal,Illinois,United States,0.04,USD per kg
+1167,Bituminous Coal,Indiana,United States,0.06,USD per kg
+1168,Bituminous Coal,Iowa,United States,0.11,USD per kg
+1169,Bituminous Coal,Kansas,United States,0.11,USD per kg
+1170,Bituminous Coal,Kentucky,United States,0.09,USD per kg
+1171,Bituminous Coal,Louisiana,United States,0.11,USD per kg
+1172,Bituminous Coal,Maine,United States,0.11,USD per kg
+1173,Bituminous Coal,Maryland,United States,0.08,USD per kg
+1174,Bituminous Coal,Massachusetts,United States,0.11,USD per kg
+1175,Bituminous Coal,Michigan,United States,0.11,USD per kg
+1176,Bituminous Coal,Minnesota,United States,0.11,USD per kg
+1177,Bituminous Coal,Mississippi,United States,0.11,USD per kg
+1178,Bituminous Coal,Missouri,United States,0.11,USD per kg
+1179,Bituminous Coal,Montana,United States,0.11,USD per kg
+1180,Bituminous Coal,Nebraska,United States,0.11,USD per kg
+1181,Bituminous Coal,Nevada,United States,0.11,USD per kg
+1182,Bituminous Coal,New Hampshire,United States,0.11,USD per kg
+1183,Bituminous Coal,New Jersey,United States,0.11,USD per kg
+1184,Bituminous Coal,New Mexico,United States,0.11,USD per kg
+1185,Bituminous Coal,New York,United States,0.11,USD per kg
+1186,Bituminous Coal,North Carolina,United States,0.11,USD per kg
+1187,Bituminous Coal,North Dakota,United States,0.11,USD per kg
+1188,Bituminous Coal,Ohio,United States,0.06,USD per kg
+1189,Bituminous Coal,Oklahoma,United States,0.11,USD per kg
+1190,Bituminous Coal,Oregon,United States,0.11,USD per kg
+1191,Bituminous Coal,Pennsylvania,United States,0.1,USD per kg
+1192,Bituminous Coal,Rhode Island,United States,0.11,USD per kg
+1193,Bituminous Coal,South Carolina,United States,0.11,USD per kg
+1194,Bituminous Coal,South Dakota,United States,0.11,USD per kg
+1195,Bituminous Coal,Tennessee,United States,0.11,USD per kg
+1196,Bituminous Coal,Texas,United States,0.11,USD per kg
+1197,Bituminous Coal,Utah,United States,0.05,USD per kg
+1198,Bituminous Coal,Vermont,United States,0.11,USD per kg
+1199,Bituminous Coal,Virginia,United States,0.23,USD per kg
+1200,Bituminous Coal,Washington,United States,0.11,USD per kg
+1201,Bituminous Coal,Washington D.C,United States,0.11,USD per kg
+1202,Bituminous Coal,West Virginia,United States,0.14,USD per kg
+1203,Bituminous Coal,Wisconsin,United States,0.11,USD per kg
+1204,Bituminous Coal,Wyoming,United States,0.11,USD per kg
+1205,Bituminous Coal,Alabama,United States,0.3,USD per kg
+1206,Bituminous Coal,Alaska,United States,0.11,USD per kg
+1207,Bituminous Coal,Arizona,United States,0.11,USD per kg
+1208,Bituminous Coal,Arkansas,United States,0.11,USD per kg
+1209,Bituminous Coal,California,United States,0.11,USD per kg
+1210,Bituminous Coal,Colorado,United States,0.11,USD per kg
+1211,Bituminous Coal,Connecticut,United States,0.11,USD per kg
+1212,Bituminous Coal,Delaware,United States,0.11,USD per kg
+1213,Bituminous Coal,Florida,United States,0.11,USD per kg
+1214,Bituminous Coal,Georgia,United States,0.11,USD per kg
+1215,Bituminous Coal,Hawaii,United States,0.11,USD per kg
+1216,Bituminous Coal,Idaho,United States,0.11,USD per kg
+1217,Bituminous Coal,Illinois,United States,0.04,USD per kg
+1218,Bituminous Coal,Indiana,United States,0.06,USD per kg
+1219,Bituminous Coal,Iowa,United States,0.11,USD per kg
+1220,Bituminous Coal,Kansas,United States,0.11,USD per kg
+1221,Bituminous Coal,Kentucky,United States,0.09,USD per kg
+1222,Bituminous Coal,Louisiana,United States,0.11,USD per kg
+1223,Bituminous Coal,Maine,United States,0.11,USD per kg
+1224,Bituminous Coal,Maryland,United States,0.08,USD per kg
+1225,Bituminous Coal,Massachusetts,United States,0.11,USD per kg
+1226,Bituminous Coal,Michigan,United States,0.11,USD per kg
+1227,Bituminous Coal,Minnesota,United States,0.11,USD per kg
+1228,Bituminous Coal,Mississippi,United States,0.11,USD per kg
+1229,Bituminous Coal,Missouri,United States,0.11,USD per kg
+1230,Bituminous Coal,Montana,United States,0.11,USD per kg
+1231,Bituminous Coal,Nebraska,United States,0.11,USD per kg
+1232,Bituminous Coal,Nevada,United States,0.11,USD per kg
+1233,Bituminous Coal,New Hampshire,United States,0.11,USD per kg
+1234,Bituminous Coal,New Jersey,United States,0.11,USD per kg
+1235,Bituminous Coal,New Mexico,United States,0.11,USD per kg
+1236,Bituminous Coal,New York,United States,0.11,USD per kg
+1237,Bituminous Coal,North Carolina,United States,0.11,USD per kg
+1238,Bituminous Coal,North Dakota,United States,0.11,USD per kg
+1239,Bituminous Coal,Ohio,United States,0.06,USD per kg
+1240,Bituminous Coal,Oklahoma,United States,0.11,USD per kg
+1241,Bituminous Coal,Oregon,United States,0.11,USD per kg
+1242,Bituminous Coal,Pennsylvania,United States,0.1,USD per kg
+1243,Bituminous Coal,Rhode Island,United States,0.11,USD per kg
+1244,Bituminous Coal,South Carolina,United States,0.11,USD per kg
+1245,Bituminous Coal,South Dakota,United States,0.11,USD per kg
+1246,Bituminous Coal,Tennessee,United States,0.11,USD per kg
+1247,Bituminous Coal,Texas,United States,0.11,USD per kg
+1248,Bituminous Coal,Utah,United States,0.05,USD per kg
+1249,Bituminous Coal,Vermont,United States,0.11,USD per kg
+1250,Bituminous Coal,Virginia,United States,0.23,USD per kg
+1251,Bituminous Coal,Washington,United States,0.11,USD per kg
+1252,Bituminous Coal,Washington D.C,United States,0.11,USD per kg
+1253,Bituminous Coal,West Virginia,United States,0.14,USD per kg
+1254,Bituminous Coal,Wisconsin,United States,0.11,USD per kg
+1255,Bituminous Coal,Wyoming,United States,0.11,USD per kg
+1256,Bituminous Coal,Alberta,Canada,0.11,USD per kg
+1257,Bituminous Coal,British Columbia,Canada,0.11,USD per kg
+1258,Bituminous Coal,Manitoba,Canada,0.11,USD per kg
+1259,Bituminous Coal,New Brunswick,Canada,0.11,USD per kg
+1260,Bituminous Coal,Newfoundland and Labrador,Canada,0.11,USD per kg
+1261,Bituminous Coal,Northwest Territories,Canada,0.11,USD per kg
+1262,Bituminous Coal,Nova Scotia,Canada,0.11,USD per kg
+1263,Bituminous Coal,Nunavut,Canada,0.11,USD per kg
+1264,Bituminous Coal,Ontario,Canada,0.11,USD per kg
+1265,Bituminous Coal,Prince Edward Island,Canada,0.11,USD per kg
+1266,Bituminous Coal,Quebec,Canada,0.11,USD per kg
+1267,Bituminous Coal,Saskatchewan,Canada,0.11,USD per kg
+1268,Bituminous Coal,Yukon,Canada,0.11,USD per kg
+1269,Sub-bituminous Coal,Alabama,United States,0.02,USD per kg
+1270,Sub-bituminous Coal,Alaska,United States,0.02,USD per kg
+1271,Sub-bituminous Coal,Arizona,United States,0.02,USD per kg
+1272,Sub-bituminous Coal,Arkansas,United States,0.02,USD per kg
+1273,Sub-bituminous Coal,California,United States,0.02,USD per kg
+1274,Sub-bituminous Coal,Colorado,United States,0.02,USD per kg
+1275,Sub-bituminous Coal,Connecticut,United States,0.02,USD per kg
+1276,Sub-bituminous Coal,Delaware,United States,0.02,USD per kg
+1277,Sub-bituminous Coal,Florida,United States,0.02,USD per kg
+1278,Sub-bituminous Coal,Georgia,United States,0.02,USD per kg
+1279,Sub-bituminous Coal,Hawaii,United States,0.02,USD per kg
+1280,Sub-bituminous Coal,Idaho,United States,0.02,USD per kg
+1281,Sub-bituminous Coal,Illinois,United States,0.02,USD per kg
+1282,Sub-bituminous Coal,Indiana,United States,0.02,USD per kg
+1283,Sub-bituminous Coal,Iowa,United States,0.02,USD per kg
+1284,Sub-bituminous Coal,Kansas,United States,0.02,USD per kg
+1285,Sub-bituminous Coal,Kentucky,United States,0.02,USD per kg
+1286,Sub-bituminous Coal,Louisiana,United States,0.02,USD per kg
+1287,Sub-bituminous Coal,Maine,United States,0.02,USD per kg
+1288,Sub-bituminous Coal,Maryland,United States,0.02,USD per kg
+1289,Sub-bituminous Coal,Massachusetts,United States,0.02,USD per kg
+1290,Sub-bituminous Coal,Michigan,United States,0.02,USD per kg
+1291,Sub-bituminous Coal,Minnesota,United States,0.02,USD per kg
+1292,Sub-bituminous Coal,Mississippi,United States,0.02,USD per kg
+1293,Sub-bituminous Coal,Missouri,United States,0.02,USD per kg
+1294,Sub-bituminous Coal,Montana,United States,0.02,USD per kg
+1295,Sub-bituminous Coal,Nebraska,United States,0.02,USD per kg
+1296,Sub-bituminous Coal,Nevada,United States,0.02,USD per kg
+1297,Sub-bituminous Coal,New Hampshire,United States,0.02,USD per kg
+1298,Sub-bituminous Coal,New Jersey,United States,0.02,USD per kg
+1299,Sub-bituminous Coal,New Mexico,United States,0.02,USD per kg
+1300,Sub-bituminous Coal,New York,United States,0.02,USD per kg
+1301,Sub-bituminous Coal,North Carolina,United States,0.02,USD per kg
+1302,Sub-bituminous Coal,North Dakota,United States,0.02,USD per kg
+1303,Sub-bituminous Coal,Ohio,United States,0.02,USD per kg
+1304,Sub-bituminous Coal,Oklahoma,United States,0.02,USD per kg
+1305,Sub-bituminous Coal,Oregon,United States,0.02,USD per kg
+1306,Sub-bituminous Coal,Pennsylvania,United States,0.02,USD per kg
+1307,Sub-bituminous Coal,Rhode Island,United States,0.02,USD per kg
+1308,Sub-bituminous Coal,South Carolina,United States,0.02,USD per kg
+1309,Sub-bituminous Coal,South Dakota,United States,0.02,USD per kg
+1310,Sub-bituminous Coal,Tennessee,United States,0.02,USD per kg
+1311,Sub-bituminous Coal,Texas,United States,0.02,USD per kg
+1312,Sub-bituminous Coal,Utah,United States,0.02,USD per kg
+1313,Sub-bituminous Coal,Vermont,United States,0.02,USD per kg
+1314,Sub-bituminous Coal,Virginia,United States,0.02,USD per kg
+1315,Sub-bituminous Coal,Washington,United States,0.02,USD per kg
+1316,Sub-bituminous Coal,Washington D.C,United States,0.02,USD per kg
+1317,Sub-bituminous Coal,West Virginia,United States,0.02,USD per kg
+1318,Sub-bituminous Coal,Wisconsin,United States,0.02,USD per kg
+1319,Sub-bituminous Coal,Wyoming,United States,0.02,USD per kg
+1320,Sub-bituminous Coal,Alabama,United States,0.02,USD per kg
+1321,Sub-bituminous Coal,Alaska,United States,0.02,USD per kg
+1322,Sub-bituminous Coal,Arizona,United States,0.02,USD per kg
+1323,Sub-bituminous Coal,Arkansas,United States,0.02,USD per kg
+1324,Sub-bituminous Coal,California,United States,0.02,USD per kg
+1325,Sub-bituminous Coal,Colorado,United States,0.02,USD per kg
+1326,Sub-bituminous Coal,Connecticut,United States,0.02,USD per kg
+1327,Sub-bituminous Coal,Delaware,United States,0.02,USD per kg
+1328,Sub-bituminous Coal,Florida,United States,0.02,USD per kg
+1329,Sub-bituminous Coal,Georgia,United States,0.02,USD per kg
+1330,Sub-bituminous Coal,Hawaii,United States,0.02,USD per kg
+1331,Sub-bituminous Coal,Idaho,United States,0.02,USD per kg
+1332,Sub-bituminous Coal,Illinois,United States,0.02,USD per kg
+1333,Sub-bituminous Coal,Indiana,United States,0.02,USD per kg
+1334,Sub-bituminous Coal,Iowa,United States,0.02,USD per kg
+1335,Sub-bituminous Coal,Kansas,United States,0.02,USD per kg
+1336,Sub-bituminous Coal,Kentucky,United States,0.02,USD per kg
+1337,Sub-bituminous Coal,Louisiana,United States,0.02,USD per kg
+1338,Sub-bituminous Coal,Maine,United States,0.02,USD per kg
+1339,Sub-bituminous Coal,Maryland,United States,0.02,USD per kg
+1340,Sub-bituminous Coal,Massachusetts,United States,0.02,USD per kg
+1341,Sub-bituminous Coal,Michigan,United States,0.02,USD per kg
+1342,Sub-bituminous Coal,Minnesota,United States,0.02,USD per kg
+1343,Sub-bituminous Coal,Mississippi,United States,0.02,USD per kg
+1344,Sub-bituminous Coal,Missouri,United States,0.02,USD per kg
+1345,Sub-bituminous Coal,Montana,United States,0.02,USD per kg
+1346,Sub-bituminous Coal,Nebraska,United States,0.02,USD per kg
+1347,Sub-bituminous Coal,Nevada,United States,0.02,USD per kg
+1348,Sub-bituminous Coal,New Hampshire,United States,0.02,USD per kg
+1349,Sub-bituminous Coal,New Jersey,United States,0.02,USD per kg
+1350,Sub-bituminous Coal,New Mexico,United States,0.02,USD per kg
+1351,Sub-bituminous Coal,New York,United States,0.02,USD per kg
+1352,Sub-bituminous Coal,North Carolina,United States,0.02,USD per kg
+1353,Sub-bituminous Coal,North Dakota,United States,0.02,USD per kg
+1354,Sub-bituminous Coal,Ohio,United States,0.02,USD per kg
+1355,Sub-bituminous Coal,Oklahoma,United States,0.02,USD per kg
+1356,Sub-bituminous Coal,Oregon,United States,0.02,USD per kg
+1357,Sub-bituminous Coal,Pennsylvania,United States,0.02,USD per kg
+1358,Sub-bituminous Coal,Rhode Island,United States,0.02,USD per kg
+1359,Sub-bituminous Coal,South Carolina,United States,0.02,USD per kg
+1360,Sub-bituminous Coal,South Dakota,United States,0.02,USD per kg
+1361,Sub-bituminous Coal,Tennessee,United States,0.02,USD per kg
+1362,Sub-bituminous Coal,Texas,United States,0.02,USD per kg
+1363,Sub-bituminous Coal,Utah,United States,0.02,USD per kg
+1364,Sub-bituminous Coal,Vermont,United States,0.02,USD per kg
+1365,Sub-bituminous Coal,Virginia,United States,0.02,USD per kg
+1366,Sub-bituminous Coal,Washington,United States,0.02,USD per kg
+1367,Sub-bituminous Coal,Washington D.C,United States,0.02,USD per kg
+1368,Sub-bituminous Coal,West Virginia,United States,0.02,USD per kg
+1369,Sub-bituminous Coal,Wisconsin,United States,0.02,USD per kg
+1370,Sub-bituminous Coal,Wyoming,United States,0.02,USD per kg
+1371,Sub-bituminous Coal,Alberta,Canada,0.02,USD per kg
+1372,Sub-bituminous Coal,British Columbia,Canada,0.02,USD per kg
+1373,Sub-bituminous Coal,Manitoba,Canada,0.02,USD per kg
+1374,Sub-bituminous Coal,New Brunswick,Canada,0.02,USD per kg
+1375,Sub-bituminous Coal,Newfoundland and Labrador,Canada,0.02,USD per kg
+1376,Sub-bituminous Coal,Northwest Territories,Canada,0.02,USD per kg
+1377,Sub-bituminous Coal,Nova Scotia,Canada,0.02,USD per kg
+1378,Sub-bituminous Coal,Nunavut,Canada,0.02,USD per kg
+1379,Sub-bituminous Coal,Ontario,Canada,0.02,USD per kg
+1380,Sub-bituminous Coal,Prince Edward Island,Canada,0.02,USD per kg
+1381,Sub-bituminous Coal,Quebec,Canada,0.02,USD per kg
+1382,Sub-bituminous Coal,Saskatchewan,Canada,0.02,USD per kg
+1383,Sub-bituminous Coal,Yukon,Canada,0.02,USD per kg
+1384,Lignite Coal,Alabama,United States,0.02,USD per kg
+1385,Lignite Coal,Alaska,United States,0.02,USD per kg
+1386,Lignite Coal,Arizona,United States,0.02,USD per kg
+1387,Lignite Coal,Arkansas,United States,0.02,USD per kg
+1388,Lignite Coal,California,United States,0.02,USD per kg
+1389,Lignite Coal,Colorado,United States,0.02,USD per kg
+1390,Lignite Coal,Connecticut,United States,0.02,USD per kg
+1391,Lignite Coal,Delaware,United States,0.02,USD per kg
+1392,Lignite Coal,Florida,United States,0.02,USD per kg
+1393,Lignite Coal,Georgia,United States,0.02,USD per kg
+1394,Lignite Coal,Hawaii,United States,0.02,USD per kg
+1395,Lignite Coal,Idaho,United States,0.02,USD per kg
+1396,Lignite Coal,Illinois,United States,0.02,USD per kg
+1397,Lignite Coal,Indiana,United States,0.02,USD per kg
+1398,Lignite Coal,Iowa,United States,0.02,USD per kg
+1399,Lignite Coal,Kansas,United States,0.02,USD per kg
+1400,Lignite Coal,Kentucky,United States,0.02,USD per kg
+1401,Lignite Coal,Louisiana,United States,0.02,USD per kg
+1402,Lignite Coal,Maine,United States,0.02,USD per kg
+1403,Lignite Coal,Maryland,United States,0.02,USD per kg
+1404,Lignite Coal,Massachusetts,United States,0.02,USD per kg
+1405,Lignite Coal,Michigan,United States,0.02,USD per kg
+1406,Lignite Coal,Minnesota,United States,0.02,USD per kg
+1407,Lignite Coal,Mississippi,United States,0.02,USD per kg
+1408,Lignite Coal,Missouri,United States,0.02,USD per kg
+1409,Lignite Coal,Montana,United States,0.02,USD per kg
+1410,Lignite Coal,Nebraska,United States,0.02,USD per kg
+1411,Lignite Coal,Nevada,United States,0.02,USD per kg
+1412,Lignite Coal,New Hampshire,United States,0.02,USD per kg
+1413,Lignite Coal,New Jersey,United States,0.02,USD per kg
+1414,Lignite Coal,New Mexico,United States,0.02,USD per kg
+1415,Lignite Coal,New York,United States,0.02,USD per kg
+1416,Lignite Coal,North Carolina,United States,0.02,USD per kg
+1417,Lignite Coal,North Dakota,United States,0.02,USD per kg
+1418,Lignite Coal,Ohio,United States,0.02,USD per kg
+1419,Lignite Coal,Oklahoma,United States,0.02,USD per kg
+1420,Lignite Coal,Oregon,United States,0.02,USD per kg
+1421,Lignite Coal,Pennsylvania,United States,0.02,USD per kg
+1422,Lignite Coal,Rhode Island,United States,0.02,USD per kg
+1423,Lignite Coal,South Carolina,United States,0.02,USD per kg
+1424,Lignite Coal,South Dakota,United States,0.02,USD per kg
+1425,Lignite Coal,Tennessee,United States,0.02,USD per kg
+1426,Lignite Coal,Texas,United States,0.02,USD per kg
+1427,Lignite Coal,Utah,United States,0.02,USD per kg
+1428,Lignite Coal,Vermont,United States,0.02,USD per kg
+1429,Lignite Coal,Virginia,United States,0.02,USD per kg
+1430,Lignite Coal,Washington,United States,0.02,USD per kg
+1431,Lignite Coal,Washington D.C,United States,0.02,USD per kg
+1432,Lignite Coal,West Virginia,United States,0.02,USD per kg
+1433,Lignite Coal,Wisconsin,United States,0.02,USD per kg
+1434,Lignite Coal,Wyoming,United States,0.02,USD per kg
+1435,Lignite Coal,Alabama,United States,0.02,USD per kg
+1436,Lignite Coal,Alaska,United States,0.02,USD per kg
+1437,Lignite Coal,Arizona,United States,0.02,USD per kg
+1438,Lignite Coal,Arkansas,United States,0.02,USD per kg
+1439,Lignite Coal,California,United States,0.02,USD per kg
+1440,Lignite Coal,Colorado,United States,0.02,USD per kg
+1441,Lignite Coal,Connecticut,United States,0.02,USD per kg
+1442,Lignite Coal,Delaware,United States,0.02,USD per kg
+1443,Lignite Coal,Florida,United States,0.02,USD per kg
+1444,Lignite Coal,Georgia,United States,0.02,USD per kg
+1445,Lignite Coal,Hawaii,United States,0.02,USD per kg
+1446,Lignite Coal,Idaho,United States,0.02,USD per kg
+1447,Lignite Coal,Illinois,United States,0.02,USD per kg
+1448,Lignite Coal,Indiana,United States,0.02,USD per kg
+1449,Lignite Coal,Iowa,United States,0.02,USD per kg
+1450,Lignite Coal,Kansas,United States,0.02,USD per kg
+1451,Lignite Coal,Kentucky,United States,0.02,USD per kg
+1452,Lignite Coal,Louisiana,United States,0.02,USD per kg
+1453,Lignite Coal,Maine,United States,0.02,USD per kg
+1454,Lignite Coal,Maryland,United States,0.02,USD per kg
+1455,Lignite Coal,Massachusetts,United States,0.02,USD per kg
+1456,Lignite Coal,Michigan,United States,0.02,USD per kg
+1457,Lignite Coal,Minnesota,United States,0.02,USD per kg
+1458,Lignite Coal,Mississippi,United States,0.02,USD per kg
+1459,Lignite Coal,Missouri,United States,0.02,USD per kg
+1460,Lignite Coal,Montana,United States,0.02,USD per kg
+1461,Lignite Coal,Nebraska,United States,0.02,USD per kg
+1462,Lignite Coal,Nevada,United States,0.02,USD per kg
+1463,Lignite Coal,New Hampshire,United States,0.02,USD per kg
+1464,Lignite Coal,New Jersey,United States,0.02,USD per kg
+1465,Lignite Coal,New Mexico,United States,0.02,USD per kg
+1466,Lignite Coal,New York,United States,0.02,USD per kg
+1467,Lignite Coal,North Carolina,United States,0.02,USD per kg
+1468,Lignite Coal,North Dakota,United States,0.02,USD per kg
+1469,Lignite Coal,Ohio,United States,0.02,USD per kg
+1470,Lignite Coal,Oklahoma,United States,0.02,USD per kg
+1471,Lignite Coal,Oregon,United States,0.02,USD per kg
+1472,Lignite Coal,Pennsylvania,United States,0.02,USD per kg
+1473,Lignite Coal,Rhode Island,United States,0.02,USD per kg
+1474,Lignite Coal,South Carolina,United States,0.02,USD per kg
+1475,Lignite Coal,South Dakota,United States,0.02,USD per kg
+1476,Lignite Coal,Tennessee,United States,0.02,USD per kg
+1477,Lignite Coal,Texas,United States,0.02,USD per kg
+1478,Lignite Coal,Utah,United States,0.02,USD per kg
+1479,Lignite Coal,Vermont,United States,0.02,USD per kg
+1480,Lignite Coal,Virginia,United States,0.02,USD per kg
+1481,Lignite Coal,Washington,United States,0.02,USD per kg
+1482,Lignite Coal,Washington D.C,United States,0.02,USD per kg
+1483,Lignite Coal,West Virginia,United States,0.02,USD per kg
+1484,Lignite Coal,Wisconsin,United States,0.02,USD per kg
+1485,Lignite Coal,Wyoming,United States,0.02,USD per kg
+1486,Lignite Coal,Alberta,Canada,0.02,USD per kg
+1487,Lignite Coal,British Columbia,Canada,0.02,USD per kg
+1488,Lignite Coal,Manitoba,Canada,0.02,USD per kg
+1489,Lignite Coal,New Brunswick,Canada,0.02,USD per kg
+1490,Lignite Coal,Newfoundland and Labrador,Canada,0.02,USD per kg
+1491,Lignite Coal,Northwest Territories,Canada,0.02,USD per kg
+1492,Lignite Coal,Nova Scotia,Canada,0.02,USD per kg
+1493,Lignite Coal,Nunavut,Canada,0.02,USD per kg
+1494,Lignite Coal,Ontario,Canada,0.02,USD per kg
+1495,Lignite Coal,Prince Edward Island,Canada,0.02,USD per kg
+1496,Lignite Coal,Quebec,Canada,0.02,USD per kg
+1497,Lignite Coal,Saskatchewan,Canada,0.02,USD per kg
+1498,Lignite Coal,Yukon,Canada,0.02,USD per kg
+1499,Crude Oil,Alabama,United States,0.58,USD per L
+1500,Crude Oil,Alaska,United States,0.59,USD per L
+1501,Crude Oil,Arizona,United States,0.59,USD per L
+1502,Crude Oil,Arkansas,United States,0.56,USD per L
+1503,Crude Oil,California,United States,0.61,USD per L
+1504,Crude Oil,Colorado,United States,0.58,USD per L
+1505,Crude Oil,Connecticut,United States,0.59,USD per L
+1506,Crude Oil,Delaware,United States,0.59,USD per L
+1507,Crude Oil,Florida,United States,0.59,USD per L
+1508,Crude Oil,Georgia,United States,0.59,USD per L
+1509,Crude Oil,Hawaii,United States,0.59,USD per L
+1510,Crude Oil,Idaho,United States,0.59,USD per L
+1511,Crude Oil,Illinois,United States,0.58,USD per L
+1512,Crude Oil,Indiana,United States,0.57,USD per L
+1513,Crude Oil,Iowa,United States,0.59,USD per L
+1514,Crude Oil,Kansas,United States,0.57,USD per L
+1515,Crude Oil,Kentucky,United States,0.56,USD per L
+1516,Crude Oil,Louisiana,United States,0.6,USD per L
+1517,Crude Oil,Maine,United States,0.59,USD per L
+1518,Crude Oil,Maryland,United States,0.59,USD per L
+1519,Crude Oil,Massachusetts,United States,0.59,USD per L
+1520,Crude Oil,Michigan,United States,0.57,USD per L
+1521,Crude Oil,Minnesota,United States,0.59,USD per L
+1522,Crude Oil,Mississippi,United States,0.59,USD per L
+1523,Crude Oil,Missouri,United States,0.59,USD per L
+1524,Crude Oil,Montana,United States,0.57,USD per L
+1525,Crude Oil,Nebraska,United States,0.56,USD per L
+1526,Crude Oil,Nevada,United States,0.59,USD per L
+1527,Crude Oil,New Hampshire,United States,0.59,USD per L
+1528,Crude Oil,New Jersey,United States,0.59,USD per L
+1529,Crude Oil,New Mexico,United States,0.6,USD per L
+1530,Crude Oil,New York,United States,0.59,USD per L
+1531,Crude Oil,North Carolina,United States,0.59,USD per L
+1532,Crude Oil,North Dakota,United States,0.58,USD per L
+1533,Crude Oil,Ohio,United States,0.56,USD per L
+1534,Crude Oil,Oklahoma,United States,0.59,USD per L
+1535,Crude Oil,Oregon,United States,0.59,USD per L
+1536,Crude Oil,Pennsylvania,United States,0.56,USD per L
+1537,Crude Oil,Rhode Island,United States,0.59,USD per L
+1538,Crude Oil,South Carolina,United States,0.59,USD per L
+1539,Crude Oil,South Dakota,United States,0.58,USD per L
+1540,Crude Oil,Tennessee,United States,0.59,USD per L
+1541,Crude Oil,Texas,United States,0.6,USD per L
+1542,Crude Oil,Utah,United States,0.51,USD per L
+1543,Crude Oil,Vermont,United States,0.59,USD per L
+1544,Crude Oil,Virginia,United States,0.59,USD per L
+1545,Crude Oil,Washington,United States,0.59,USD per L
+1546,Crude Oil,Washington D.C,United States,0.59,USD per L
+1547,Crude Oil,West Virginia,United States,0.55,USD per L
+1548,Crude Oil,Wisconsin,United States,0.59,USD per L
+1549,Crude Oil,Wyoming,United States,0.58,USD per L
+1550,Crude Oil,Alabama,United States,0.58,USD per L
+1551,Crude Oil,Alaska,United States,0.59,USD per L
+1552,Crude Oil,Arizona,United States,0.59,USD per L
+1553,Crude Oil,Arkansas,United States,0.56,USD per L
+1554,Crude Oil,California,United States,0.61,USD per L
+1555,Crude Oil,Colorado,United States,0.58,USD per L
+1556,Crude Oil,Connecticut,United States,0.59,USD per L
+1557,Crude Oil,Delaware,United States,0.59,USD per L
+1558,Crude Oil,Florida,United States,0.59,USD per L
+1559,Crude Oil,Georgia,United States,0.59,USD per L
+1560,Crude Oil,Hawaii,United States,0.59,USD per L
+1561,Crude Oil,Idaho,United States,0.59,USD per L
+1562,Crude Oil,Illinois,United States,0.58,USD per L
+1563,Crude Oil,Indiana,United States,0.57,USD per L
+1564,Crude Oil,Iowa,United States,0.59,USD per L
+1565,Crude Oil,Kansas,United States,0.57,USD per L
+1566,Crude Oil,Kentucky,United States,0.56,USD per L
+1567,Crude Oil,Louisiana,United States,0.6,USD per L
+1568,Crude Oil,Maine,United States,0.59,USD per L
+1569,Crude Oil,Maryland,United States,0.59,USD per L
+1570,Crude Oil,Massachusetts,United States,0.59,USD per L
+1571,Crude Oil,Michigan,United States,0.57,USD per L
+1572,Crude Oil,Minnesota,United States,0.59,USD per L
+1573,Crude Oil,Mississippi,United States,0.59,USD per L
+1574,Crude Oil,Missouri,United States,0.59,USD per L
+1575,Crude Oil,Montana,United States,0.57,USD per L
+1576,Crude Oil,Nebraska,United States,0.56,USD per L
+1577,Crude Oil,Nevada,United States,0.59,USD per L
+1578,Crude Oil,New Hampshire,United States,0.59,USD per L
+1579,Crude Oil,New Jersey,United States,0.59,USD per L
+1580,Crude Oil,New Mexico,United States,0.6,USD per L
+1581,Crude Oil,New York,United States,0.59,USD per L
+1582,Crude Oil,North Carolina,United States,0.59,USD per L
+1583,Crude Oil,North Dakota,United States,0.58,USD per L
+1584,Crude Oil,Ohio,United States,0.56,USD per L
+1585,Crude Oil,Oklahoma,United States,0.59,USD per L
+1586,Crude Oil,Oregon,United States,0.59,USD per L
+1587,Crude Oil,Pennsylvania,United States,0.56,USD per L
+1588,Crude Oil,Rhode Island,United States,0.59,USD per L
+1589,Crude Oil,South Carolina,United States,0.59,USD per L
+1590,Crude Oil,South Dakota,United States,0.58,USD per L
+1591,Crude Oil,Tennessee,United States,0.59,USD per L
+1592,Crude Oil,Texas,United States,0.6,USD per L
+1593,Crude Oil,Utah,United States,0.51,USD per L
+1594,Crude Oil,Vermont,United States,0.59,USD per L
+1595,Crude Oil,Virginia,United States,0.59,USD per L
+1596,Crude Oil,Washington,United States,0.59,USD per L
+1597,Crude Oil,Washington D.C,United States,0.59,USD per L
+1598,Crude Oil,West Virginia,United States,0.55,USD per L
+1599,Crude Oil,Wisconsin,United States,0.59,USD per L
+1600,Crude Oil,Wyoming,United States,0.58,USD per L
+1601,Crude Oil,Alberta,Canada,0.59,USD per L
+1602,Crude Oil,British Columbia,Canada,0.59,USD per L
+1603,Crude Oil,Manitoba,Canada,0.59,USD per L
+1604,Crude Oil,New Brunswick,Canada,0.59,USD per L
+1605,Crude Oil,Newfoundland and Labrador,Canada,0.59,USD per L
+1606,Crude Oil,Northwest Territories,Canada,0.59,USD per L
+1607,Crude Oil,Nova Scotia,Canada,0.59,USD per L
+1608,Crude Oil,Nunavut,Canada,0.59,USD per L
+1609,Crude Oil,Ontario,Canada,0.59,USD per L
+1610,Crude Oil,Prince Edward Island,Canada,0.59,USD per L
+1611,Crude Oil,Quebec,Canada,0.59,USD per L
+1612,Crude Oil,Saskatchewan,Canada,0.59,USD per L
+1613,Crude Oil,Yukon,Canada,0.59,USD per L
+1614,Wood Pellets,Alabama,United States,0.308,USD per kg
+1615,Wood Pellets,Alaska,United States,0.308,USD per kg
+1616,Wood Pellets,Arizona,United States,0.308,USD per kg
+1617,Wood Pellets,Arkansas,United States,0.308,USD per kg
+1618,Wood Pellets,California,United States,0.308,USD per kg
+1619,Wood Pellets,Colorado,United States,0.308,USD per kg
+1620,Wood Pellets,Connecticut,United States,0.308,USD per kg
+1621,Wood Pellets,Delaware,United States,0.308,USD per kg
+1622,Wood Pellets,Florida,United States,0.308,USD per kg
+1623,Wood Pellets,Georgia,United States,0.308,USD per kg
+1624,Wood Pellets,Hawaii,United States,0.308,USD per kg
+1625,Wood Pellets,Idaho,United States,0.308,USD per kg
+1626,Wood Pellets,Illinois,United States,0.308,USD per kg
+1627,Wood Pellets,Indiana,United States,0.308,USD per kg
+1628,Wood Pellets,Iowa,United States,0.308,USD per kg
+1629,Wood Pellets,Kansas,United States,0.308,USD per kg
+1630,Wood Pellets,Kentucky,United States,0.308,USD per kg
+1631,Wood Pellets,Louisiana,United States,0.308,USD per kg
+1632,Wood Pellets,Maine,United States,0.308,USD per kg
+1633,Wood Pellets,Maryland,United States,0.308,USD per kg
+1634,Wood Pellets,Massachusetts,United States,0.308,USD per kg
+1635,Wood Pellets,Michigan,United States,0.308,USD per kg
+1636,Wood Pellets,Minnesota,United States,0.308,USD per kg
+1637,Wood Pellets,Mississippi,United States,0.308,USD per kg
+1638,Wood Pellets,Missouri,United States,0.308,USD per kg
+1639,Wood Pellets,Montana,United States,0.308,USD per kg
+1640,Wood Pellets,Nebraska,United States,0.308,USD per kg
+1641,Wood Pellets,Nevada,United States,0.308,USD per kg
+1642,Wood Pellets,New Hampshire,United States,0.308,USD per kg
+1643,Wood Pellets,New Jersey,United States,0.308,USD per kg
+1644,Wood Pellets,New Mexico,United States,0.308,USD per kg
+1645,Wood Pellets,New York,United States,0.308,USD per kg
+1646,Wood Pellets,North Carolina,United States,0.308,USD per kg
+1647,Wood Pellets,North Dakota,United States,0.308,USD per kg
+1648,Wood Pellets,Ohio,United States,0.308,USD per kg
+1649,Wood Pellets,Oklahoma,United States,0.308,USD per kg
+1650,Wood Pellets,Oregon,United States,0.308,USD per kg
+1651,Wood Pellets,Pennsylvania,United States,0.308,USD per kg
+1652,Wood Pellets,Rhode Island,United States,0.308,USD per kg
+1653,Wood Pellets,South Carolina,United States,0.308,USD per kg
+1654,Wood Pellets,South Dakota,United States,0.308,USD per kg
+1655,Wood Pellets,Tennessee,United States,0.308,USD per kg
+1656,Wood Pellets,Texas,United States,0.308,USD per kg
+1657,Wood Pellets,Utah,United States,0.308,USD per kg
+1658,Wood Pellets,Vermont,United States,0.308,USD per kg
+1659,Wood Pellets,Virginia,United States,0.308,USD per kg
+1660,Wood Pellets,Washington,United States,0.308,USD per kg
+1661,Wood Pellets,Washington D.C,United States,0.308,USD per kg
+1662,Wood Pellets,West Virginia,United States,0.308,USD per kg
+1663,Wood Pellets,Wisconsin,United States,0.308,USD per kg
+1664,Wood Pellets,Wyoming,United States,0.308,USD per kg
+1665,Wood Pellets,Alabama,United States,0.308,USD per kg
+1666,Wood Pellets,Alaska,United States,0.308,USD per kg
+1667,Wood Pellets,Arizona,United States,0.308,USD per kg
+1668,Wood Pellets,Arkansas,United States,0.308,USD per kg
+1669,Wood Pellets,California,United States,0.308,USD per kg
+1670,Wood Pellets,Colorado,United States,0.308,USD per kg
+1671,Wood Pellets,Connecticut,United States,0.308,USD per kg
+1672,Wood Pellets,Delaware,United States,0.308,USD per kg
+1673,Wood Pellets,Florida,United States,0.308,USD per kg
+1674,Wood Pellets,Georgia,United States,0.308,USD per kg
+1675,Wood Pellets,Hawaii,United States,0.308,USD per kg
+1676,Wood Pellets,Idaho,United States,0.308,USD per kg
+1677,Wood Pellets,Illinois,United States,0.308,USD per kg
+1678,Wood Pellets,Indiana,United States,0.308,USD per kg
+1679,Wood Pellets,Iowa,United States,0.308,USD per kg
+1680,Wood Pellets,Kansas,United States,0.308,USD per kg
+1681,Wood Pellets,Kentucky,United States,0.308,USD per kg
+1682,Wood Pellets,Louisiana,United States,0.308,USD per kg
+1683,Wood Pellets,Maine,United States,0.308,USD per kg
+1684,Wood Pellets,Maryland,United States,0.308,USD per kg
+1685,Wood Pellets,Massachusetts,United States,0.308,USD per kg
+1686,Wood Pellets,Michigan,United States,0.308,USD per kg
+1687,Wood Pellets,Minnesota,United States,0.308,USD per kg
+1688,Wood Pellets,Mississippi,United States,0.308,USD per kg
+1689,Wood Pellets,Missouri,United States,0.308,USD per kg
+1690,Wood Pellets,Montana,United States,0.308,USD per kg
+1691,Wood Pellets,Nebraska,United States,0.308,USD per kg
+1692,Wood Pellets,Nevada,United States,0.308,USD per kg
+1693,Wood Pellets,New Hampshire,United States,0.308,USD per kg
+1694,Wood Pellets,New Jersey,United States,0.308,USD per kg
+1695,Wood Pellets,New Mexico,United States,0.308,USD per kg
+1696,Wood Pellets,New York,United States,0.308,USD per kg
+1697,Wood Pellets,North Carolina,United States,0.308,USD per kg
+1698,Wood Pellets,North Dakota,United States,0.308,USD per kg
+1699,Wood Pellets,Ohio,United States,0.308,USD per kg
+1700,Wood Pellets,Oklahoma,United States,0.308,USD per kg
+1701,Wood Pellets,Oregon,United States,0.308,USD per kg
+1702,Wood Pellets,Pennsylvania,United States,0.308,USD per kg
+1703,Wood Pellets,Rhode Island,United States,0.308,USD per kg
+1704,Wood Pellets,South Carolina,United States,0.308,USD per kg
+1705,Wood Pellets,South Dakota,United States,0.308,USD per kg
+1706,Wood Pellets,Tennessee,United States,0.308,USD per kg
+1707,Wood Pellets,Texas,United States,0.308,USD per kg
+1708,Wood Pellets,Utah,United States,0.308,USD per kg
+1709,Wood Pellets,Vermont,United States,0.308,USD per kg
+1710,Wood Pellets,Virginia,United States,0.308,USD per kg
+1711,Wood Pellets,Washington,United States,0.308,USD per kg
+1712,Wood Pellets,Washington D.C,United States,0.308,USD per kg
+1713,Wood Pellets,West Virginia,United States,0.308,USD per kg
+1714,Wood Pellets,Wisconsin,United States,0.308,USD per kg
+1715,Wood Pellets,Wyoming,United States,0.308,USD per kg
+1716,Wood Pellets,Alberta,Canada,0.308,USD per kg
+1717,Wood Pellets,British Columbia,Canada,0.308,USD per kg
+1718,Wood Pellets,Manitoba,Canada,0.308,USD per kg
+1719,Wood Pellets,New Brunswick,Canada,0.308,USD per kg
+1720,Wood Pellets,Newfoundland and Labrador,Canada,0.308,USD per kg
+1721,Wood Pellets,Northwest Territories,Canada,0.308,USD per kg
+1722,Wood Pellets,Nova Scotia,Canada,0.308,USD per kg
+1723,Wood Pellets,Nunavut,Canada,0.308,USD per kg
+1724,Wood Pellets,Ontario,Canada,0.308,USD per kg
+1725,Wood Pellets,Prince Edward Island,Canada,0.308,USD per kg
+1726,Wood Pellets,Quebec,Canada,0.308,USD per kg
+1727,Wood Pellets,Saskatchewan,Canada,0.308,USD per kg
+1728,Wood Pellets,Yukon,Canada,0.308,USD per kg

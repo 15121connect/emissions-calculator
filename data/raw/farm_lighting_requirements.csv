@@ -1,0 +1,31 @@
+﻿farm_type,work_area_task_id,work_area_or_task,minimum_light_level,unit,hours_per_day
+Dairy,parlour_pit,"Parlour, pit and near udder",500,lux,12
+Dairy,parlour_stalls,"Parlour, stalls & return lanes",200,lux,12
+Dairy,parlour_holding_area,"Parlour, holding area",100,lux,12
+Dairy,milkroom_general,"Milk room, general",200,lux,12
+Dairy,milkroom_washing,"Milk room, washing",100,lux,12
+Dairy,free_stall_barn_feed_alley,"Free stall barn, feed alley",200,lux,12
+Dairy,free_stall_barn_stall_area,"Free stall barn, stall area",100,lux,12
+Swine,breeding,Breeding,150,lux,16
+Swine,gestations,Gestation,150,lux,16
+Swine,farrowing,Farrowing,150,lux,12
+Swine,nursery,Nursery,150,lux,12
+Swine,finishing,Finishing,50,lux,12
+Poultry,chicken_broilers_0_1.5_wk,Chicken Broilers - age: 0‚Äì1.5 wk,50,lux,24
+Poultry,chicken_broilers_1.5_wk,Chicken Broilers - age: 1.5+ wk,5,lux,20
+Poultry,chicken_breeders_0_3_wk,Chicken Breeders - age: 0‚Äì3 wk,50,lux,14
+Poultry,chicken_breeders_4_20_wk,Chicken Breeders - age: 4‚Äì20 wk,50,lux,8
+Poultry,chicken_breeders_20_64_wk,Chicken Breeders - age: 20‚Äì64 wk,50,lux,15
+Poultry,chicken_layers_0_6_wk,Chicken Layers - age: 0‚Äì6 wk,30,lux,16
+Poultry,chicken_layers_6_18_wk,Chicken Layers - age: 6‚Äì18 wk,10,lux,8
+Poultry,chicken_layers_18_80_wk,Chicken Layers - age: 18‚Äì80 wk,10,lux,15
+Poultry,turkey_grow_outs_0_2_wk,Turkey Grow Outs - age: 0‚Äì2 wk,50,lux,24
+Poultry,turkey_grow_outs_3_5_wk,Turkey Grow Outs - age: 3‚Äì5 wk,50,lux,20
+Poultry,turkey_grow_outs_6_9_wk,Turkey Grow Outs - age: 6‚Äì9 wk,50,lux,18
+Poultry,turkey_grow_outs_10_wk,Turkey Grow Outs - age: 10+ wk,50,lux,16
+Poultry,turkey_breeder_hens_0_5_wk,Turkey Breeder Hens - age: 0‚Äì5 wk,20,lux,24
+Poultry,turkey_breeder_hens_5_30_wk,Turkey Breeder Hens - age: 5‚Äì30 wk,20,lux,8
+Poultry,turkey_breeder_hens_30_wk,Turkey Breeder Hens - age: 30+ wk,20,lux,15
+Poultry,turkey_breeder_toms_0_5_wk,Turkey Breeder Toms - age: 0‚Äì5 wk,20,lux,24
+Poultry,turkey_breeder_toms_5_30_wk,Turkey Breeder Toms - age: 5‚Äì30 wk,20,lux,15
+Poultry,turkey_breeder_toms_30_wk,Turkey Breeder Toms - age: 30+ wk,5,lux,15

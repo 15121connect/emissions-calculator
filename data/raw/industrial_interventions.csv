@@ -1,0 +1,85 @@
+intervention_id,process_type,intervention_category,intervention_subcategory,intervention_name,capital_cost,capital_cost_unit,efficiency_improvement,lifespan
+boiler_efficiency_upgrade_1,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Improve efficiency of heat exchanger,3.5427,USD per GJ,0.015,25
+boiler_efficiency_upgrade_2,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Repair leaks at boiler components,4.7236,USD per GJ,0.03,25
+boiler_efficiency_upgrade_3,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Reduce excess air at combustion system,5.9045,USD per GJ,0.02,25
+boiler_efficiency_upgrade_4,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Improve and maintain steam traps,5.9045,USD per GJ,0.08,25
+boiler_efficiency_upgrade_5,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Insulate valves and fittings,5.9045,USD per GJ,0.02,25
+boiler_efficiency_upgrade_6,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Improved process control (including flue gas monitoring),5.9045,USD per GJ,0.06,25
+boiler_efficiency_upgrade_7,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Automatic monitoring of steam traps,10.6281,USD per GJ,0.05,25
+boiler_efficiency_upgrade_8,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Install or retrofit the feedwater economiser,11.809,USD per GJ,0.05,25
+boiler_efficiency_upgrade_9,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Optimize insulation at pipes,11.809,USD per GJ,0.05,25
+boiler_efficiency_upgrade_10,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Regenerate low-pressure steam by flash high-pressure condensate ,11.809,USD per GJ,0.05,25
+boiler_efficiency_upgrade_11,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Install a condensate return system,11.809,USD per GJ,0.1,25
+boiler_efficiency_upgrade_12,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Minimise short cycling (via multiple boiler operation and/or boiler downsizing),23.618,USD per GJ,0.025,25
+boiler_efficiency_upgrade_13,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Optimize performance of the blowdown,23.618,USD per GJ,0.035,25
+boiler_efficiency_upgrade_14,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Undertake preventative measures for boiler maintenance,35.427,USD per GJ,0.1,25
+boiler_efficiency_upgrade_15,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Install a vapour recompression,35.427,USD per GJ,0.1,25
+boiler_efficiency_upgrade_16,Boilers and Steam Systems,industrial_intervention,Efficiency Upgrades and Maintenance,Reducre energy loss by a vent condenser,47.236,USD per GJ,0.035,25
+furnace_efficiency_upgrade_1,Furnaces and Process Heaters,industrial_intervention,Efficiency Upgrades and Maintenance,Reduce air infiltration by preventive measures at door and tube seals,5.9045,USD per GJ,0.02,25
+furnace_efficiency_upgrade_2,Furnaces and Process Heaters,industrial_intervention,Efficiency Upgrades and Maintenance,Reduce wall heat losses by proper insulation,7.0854,USD per GJ,0.02,25
+furnace_efficiency_upgrade_3,Furnaces and Process Heaters,industrial_intervention,Efficiency Upgrades and Maintenance,Improve process controls by automatic system,9.4472,USD per GJ,0.05,25
+furnace_efficiency_upgrade_4,Furnaces and Process Heaters,industrial_intervention,Efficiency Upgrades and Maintenance,Reduce radiation heat losses from an opening,14.1708,USD per GJ,0.05,25
+furnace_efficiency_upgrade_5,Furnaces and Process Heaters,industrial_intervention,Efficiency Upgrades and Maintenance,Implement low (LNB) or ultra-low (UNLB) NOx burners in the design and installation,14.1708,USD per GJ,0.05,25
+furnace_efficiency_upgrade_6,Furnaces and Process Heaters,industrial_intervention,Efficiency Upgrades and Maintenance,Flue gas heat recovery,20.0753,USD per GJ,0.13,25
+furnace_efficiency_upgrade_7,Furnaces and Process Heaters,industrial_intervention,Efficiency Upgrades and Maintenance,Oxygen enrichment at combustion,35.427,USD per GJ,0.04,25
+furnace_efficiency_upgrade_8,Furnaces and Process Heaters,industrial_intervention,Efficiency Upgrades and Maintenance,Reducing wall heat losses on already insulated areas,59.045,USD per GJ,0.01,25
+cooling_efficiency_upgrade_1,Cooling and Refrigeration,industrial_intervention,Efficiency Upgrades and Maintenance,Apply electronically commutated motor (ECM) into pumping part of the cooling system,11.809,USD per GJ,0.036,25
+cooling_efficiency_upgrade_2,Cooling and Refrigeration,industrial_intervention,Efficiency Upgrades and Maintenance,Reduce cooling load related to heat generating equipment and external influence,17.7135,USD per GJ,0.015,25
+cooling_efficiency_upgrade_3,Cooling and Refrigeration,industrial_intervention,Efficiency Upgrades and Maintenance,Regular cleaning / maintenance for cooling equipment,23.618,USD per GJ,0.04,25
+cooling_efficiency_upgrade_4,Cooling and Refrigeration,industrial_intervention,Efficiency Upgrades and Maintenance,Enhance efficiency by systems optimisation,35.427,USD per GJ,0.08,25
+cooling_efficiency_upgrade_5,Cooling and Refrigeration,industrial_intervention,Efficiency Upgrades and Maintenance,Improved process measuring and control,47.236,USD per GJ,0.05,25
+cooling_efficiency_upgrade_6,Cooling and Refrigeration,industrial_intervention,Efficiency Upgrades and Maintenance,Improve insulation on refrigeration systems,53.1405,USD per GJ,0.05,25
+cooling_efficiency_upgrade_7,Cooling and Refrigeration,industrial_intervention,Efficiency Upgrades and Maintenance,Employ speed-controlled compressor and fan,59.045,USD per GJ,0.04,25
+cooling_efficiency_upgrade_8,Cooling and Refrigeration,industrial_intervention,Efficiency Upgrades and Maintenance,Improve efficiency of compressor / heat exchanger in terms of refrigerant operating environment,177.135,USD per GJ,0.02,25
+cooling_efficiency_upgrade_9,Cooling and Refrigeration,industrial_intervention,Efficiency Upgrades and Maintenance,Employ multi-compressor refrigeration systems,236.18,USD per GJ,0.01,25
+cooling_efficiency_upgrade_10,Cooling and Refrigeration,industrial_intervention,Efficiency Upgrades and Maintenance,Employ multistage compression and sorption process,354.27,USD per GJ,0.075,25
+motor_efficiency_upgrade_1,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Isolate flow paths to non-essential equipment,59.045,USD per GJ,0.01,20
+motor_efficiency_upgrade_2,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Use of pressure switches,59.045,USD per GJ,0.01,20
+motor_efficiency_upgrade_3,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,"Fix leaks, damaged seals and packaging",59.045,USD per GJ,0.01,20
+motor_efficiency_upgrade_4,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Predictive maintenance,59.045,USD per GJ,0.01,20
+motor_efficiency_upgrade_5,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Trim or change impeller to match output,59.045,USD per GJ,0.01,20
+motor_efficiency_upgrade_6,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Remove sediment/scale build up,59.045,USD per GJ,0.01,20
+motor_efficiency_upgrade_7,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Install variable speed drive,59.045,USD per GJ,0.01,20
+motor_efficiency_upgrade_8,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Remove scales from heat exchangers and strainers,59.045,USD per GJ,0.01,20
+motor_efficiency_upgrade_9,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Install a more efficient pump,142.8889,USD per GJ,0.03,25
+motor_efficiency_upgrade_10,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,"Fix leaks, adjust compressor controls, establish on-going plan",1.1809,USD per GJ,0.15,15
+motor_efficiency_upgrade_11,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Address restrictive end use drops and connections,2.3618,USD per GJ,0.04,15
+motor_efficiency_upgrade_12,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,"Shut off idle equipment, engineered nozzles",3.5427,USD per GJ,0.08,15
+motor_efficiency_upgrade_13,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Eliminate inappropriate compressed air uses,4.7236,USD per GJ,0.13,15
+motor_efficiency_upgrade_14,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Predictive maintenance,5.9045,USD per GJ,0.05,15
+motor_efficiency_upgrade_15,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,More frequent filter replacement,7.0854,USD per GJ,0.02,15
+motor_efficiency_upgrade_16,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Replace existing condensate drains with zero loss type,9.4472,USD per GJ,0.03,15
+motor_efficiency_upgrade_17,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Eliminate artificial demand with pressure optimization/control,10.6281,USD per GJ,0.07,15
+motor_efficiency_upgrade_18,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Install sequencer,15.3517,USD per GJ,0.08,15
+motor_efficiency_upgrade_19,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Correct compressor intake problems,16.5326,USD per GJ,0.01,15
+motor_efficiency_upgrade_20,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Install dedicated storage with metered recovery,24.7989,USD per GJ,0.03,15
+motor_efficiency_upgrade_21,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Reconfigure branch header piping to reduce critical pressure loss,29.5225,USD per GJ,0.03,15
+motor_efficiency_upgrade_22,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Match air treatment to demand side needs,31.8843,USD per GJ,0.06,15
+motor_efficiency_upgrade_23,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Correct excessive pressure drops in main line distribution piping,33.0652,USD per GJ,0.03,15
+motor_efficiency_upgrade_24,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Correct excessive supply side pressure drop,41.3315,USD per GJ,0.03,15
+motor_efficiency_upgrade_25,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Variable speed drive,51.9596,USD per GJ,0.15,15
+motor_efficiency_upgrade_26,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Size replacement compressor to meet demand,69.6731,USD per GJ,0.13,15
+motor_efficiency_upgrade_27,Motor Driven Equipment,industrial_intervention,Efficiency Upgrades and Maintenance,Improvement of automatic control,27.1607,USD per GJ,0.042,15
+hvc_efficiency_upgrade_1,High Value Chemicals (HVC),industrial_intervention,Efficiency Upgrades and Maintenance,Steam Cracker (efficient technology - medium),231.7699,USD per GJ,0.05,20
+hvc_efficiency_upgrade_2,High Value Chemicals (HVC),industrial_intervention,Efficiency Upgrades and Maintenance,Steam Cracker (efficient technology - high),244.6552,USD per GJ,0.1,20
+hvc_efficiency_upgrade_3,High Value Chemicals (HVC),industrial_intervention,Efficiency Upgrades and Maintenance,Steam Cracker (efficient technology - very high),293.5698,USD per GJ,0.15,20
+cement_efficiency_upgrade_1,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Kiln shell heat loss reduction,8.146,USD per GJ,0.041,20
+cement_efficiency_upgrade_2,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Dry kiln to dry kiln with preheater and pre-calciner,508.5401,USD per GJ,0.279,20
+cement_efficiency_upgrade_3,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Dry kiln with preheater to dry kiln with pre heater and pre-calciner,290.5777,USD per GJ,0.058,20
+cement_efficiency_upgrade_4,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Process control and management system,199.2267,USD per GJ,0.03,20
+cement_efficiency_upgrade_5,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Additional preheater cyclone stages,401.3627,USD per GJ,0.017,20
+cement_efficiency_upgrade_6,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,HIgh efficient clinker cooler technology,883.8358,USD per GJ,0.038,20
+cement_efficiency_upgrade_7,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Modern multi-channel burner,249.3825,USD per GJ,0.01,20
+cement_efficiency_upgrade_8,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Energy management and process control in grinding,210.1656,USD per GJ,0.003,20
+cement_efficiency_upgrade_9,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,High pressure grinding rolls or vertical rolling mill,869.5222,USD per GJ,0.011,20
+cement_efficiency_upgrade_10,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Adjustable speed drives,397.2897,USD per GJ,0.004,20
+cement_efficiency_upgrade_11,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,High efficiency motors,318.8558,USD per GJ,0.003,20
+cement_efficiency_upgrade_12,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Heat recovery for power generation,1501.4153,USD per GJ,0.011,20
+cement_efficiency_upgrade_13,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Vertical roller mill instead of ball mill,1841.3342,USD per GJ,0.011,20
+cement_efficiency_upgrade_14,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Variable speed drives for kiln fan,913.0448,USD per GJ,0.004,20
+cement_efficiency_upgrade_15,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Classifiers (High efficiency seperators),1037.5615,USD per GJ,0.004,20
+cement_efficiency_upgrade_16,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Introduction of pre-grinder,2319.7343,USD per GJ,0.005,20
+cement_efficiency_upgrade_17,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,High efficiency classifiers (for finish grinding),1143.9244,USD per GJ,0.003,20
+cement_efficiency_upgrade_18,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Low pressure drop cyclones (suspension preheater),2119.693,USD per GJ,0.004,20
+cement_efficiency_upgrade_19,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Efficient transport system,2333.6988,USD per GJ,0.004,20
+cement_efficiency_upgrade_20,Cement,industrial_intervention,Efficiency Upgrades and Maintenance,Roller mill for coal preparation instead of tube mill,1836.2139,USD per GJ,0.001,20

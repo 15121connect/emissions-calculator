@@ -1,0 +1,425 @@
+intervention_id,building_type,intervention_category,intervention_subcategory,intervention_name,intervention_description,capital_cost,capital_cost_unit,energy_reductions_per_area,energy_reductions_per_area_unit,lifespan
+sing_fam_newbuild_1,Single Family Home,residential_intervention,New Build,Efficient lightbulbs and appliances,"Procurement and installation of energy-efficient lighting fixtures and appliances is recommended. The suggested ratings for optimal efficiency are as follows:
+
+- Ovens with an A rating.
+- Wet appliances with an A+ rating.
+- Cold appliances with an A++ rating.",14,USD per m2,0.18,GJ per m2,20
+sing_fam_newbuild_2,Single Family Home,residential_intervention,New Build,Heat Pump,Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1,42.44,USD per m2,0.12,GJ per m2,40
+sing_fam_newbuild_3,Single Family Home,residential_intervention,New Build,Upgrade to Mid-Performance Based Standard,"Renovation with measures in addition to building code or other regional requirements, which may include
+
+- Upgrading windows and doors to designs with better performance in heat insulation
+- Improving insulation with materials meeting or surpassing the EcoLogo program standards.
+- Replacing current appliances with either Energy Star Appliances or appliances rated within the top 33% of EnerGuide ratings for that category.
+- Installing water-conserving fixtures.
+- Installing a water heater with an energy factor exceeding 0.58",63.66,USD per m2,0.16,GJ per m2,40
+sing_fam_newbuild_4,Single Family Home,residential_intervention,New Build,Upgrade to High-Performance Based Standard,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2",148.53,USD per m2,0.34,GJ per m2,40
+sing_fam_newbuild_5,Single Family Home,residential_intervention,New Build,Upgrade to High-Performance Based Standard plus Heat Pump,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1",190.97,USD per m2,0.39,GJ per m2,40
+sing_fam_newbuild_6,Single Family Home,residential_intervention,New Build,Net Zero Energy Building,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install solar pannels which are capable to support at least 3kWp load",235.53,USD per m2,0.45,GJ per m2,40
+apart_newbuild_1,Apartment,residential_intervention,New Build,Efficient lightbulbs and appliances,"Procurement and installation of energy-efficient lighting fixtures and appliances is recommended. The suggested ratings for optimal efficiency are as follows:
+
+- Ovens with an A rating.
+- Wet appliances with an A+ rating.
+- Cold appliances with an A++ rating.",18.37,USD per m2,0.26,GJ per m2,40
+apart_newbuild_2,Apartment,residential_intervention,New Build,Heat Pump,Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1,25.13,USD per m2,-0.02,GJ per m2,40
+apart_newbuild_3,Apartment,residential_intervention,New Build,Upgrade to Mid-Performance Based Standard,"Renovation with measures in addition to building code or other regional requirements, which may include
+
+- Upgrading windows and doors to designs with better performance in heat insulation
+- Improving insulation with materials meeting or surpassing the EcoLogo program standards.
+- Replacing current appliances with either Energy Star Appliances or appliances rated within the top 33% of EnerGuide ratings for that category.
+- Installing water-conserving fixtures.
+- Installing a water heater with an energy factor exceeding 0.58",150.75,USD per m2,0.03,GJ per m2,40
+apart_newbuild_4,Apartment,residential_intervention,New Build,Upgrade to High-Performance Based Standard,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2",50.25,USD per m2,0.38,GJ per m2,40
+apart_newbuild_5,Apartment,residential_intervention,New Build,Upgrade to High-Performance Based Standard plus Heat Pump,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1",226.13,USD per m2,0.48,GJ per m2,40
+apart_newbuild_6,Apartment,residential_intervention,New Build,Net Zero Energy Building,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install solar pannels which are capable to support at least 3kWp load",238.69,USD per m2,0.54,GJ per m2,40
+town_newbuild_1,Townhouse,residential_intervention,New Build,Efficient lightbulbs and appliances,"
+Procurement and installation of energy-efficient lighting fixtures and appliances is recommended. The suggested ratings for optimal efficiency are as follows:
+
+- Ovens with an A rating.
+- Wet appliances with an A+ rating.
+- Cold appliances with an A++ rating.",18.37,USD per m2,0.27,GJ per m2,40
+town_newbuild_2,Townhouse,residential_intervention,New Build,Heat Pump,Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1,74.04,USD per m2,0.11,GJ per m2,40
+town_newbuild_3,Townhouse,residential_intervention,New Build,Upgrade to Mid-Performance Based Standard,"Renovation with measures in addition to building code or other regional requirements, which may include
+
+- Upgrading windows and doors to designs with better performance in heat insulation
+- Improving insulation with materials meeting or surpassing the EcoLogo program standards.
+- Replacing current appliances with either Energy Star Appliances or appliances rated within the top 33% of EnerGuide ratings for that category.
+- Installing water-conserving fixtures.
+- Installing a water heater with an energy factor exceeding 0.58",22.27,USD per m2,0.11,GJ per m2,40
+town_newbuild_4,Townhouse,residential_intervention,New Build,Upgrade to High-Performance Based Standard,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2",148.08,USD per m2,0.31,GJ per m2,40
+town_newbuild_5,Townhouse,residential_intervention,New Build,Upgrade to High-Performance Based Standard plus Heat Pump,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1",190.38,USD per m2,0.37,GJ per m2,40
+town_newbuild_6,Townhouse,residential_intervention,New Build,Net Zero Energy Building,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install solar pannels which are capable to support at least 3kWp load",234.81,USD per m2,0.43,GJ per m2,40
+sing_fam_newbuild_7,Single Family Home,residential_intervention,New Build,Efficient lightbulbs and appliances,"
+Procurement and installation of energy-efficient lighting fixtures and appliances is recommended. The suggested ratings for optimal efficiency are as follows:
+
+- Ovens with an A rating.
+- Wet appliances with an A+ rating.
+- Cold appliances with an A++ rating.",14,USD per m2,0.18,GJ per m2,20
+sing_fam_newbuild_8,Single Family Home,residential_intervention,New Build,Heat Pump,Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1,42.44,USD per m2,0.12,GJ per m2,40
+sing_fam_newbuild_9,Single Family Home,residential_intervention,New Build,Upgrade to Mid-Performance Based Standard,"Renovation with measures in addition to building code or other regional requirements, which may include
+
+- Upgrading windows and doors to designs with better performance in heat insulation
+- Improving insulation with materials meeting or surpassing the EcoLogo program standards.
+- Replacing current appliances with either Energy Star Appliances or appliances rated within the top 33% of EnerGuide ratings for that category.
+- Installing water-conserving fixtures.
+- Installing a water heater with an energy factor exceeding 0.58",63.66,USD per m2,0.16,GJ per m2,40
+sing_fam_newbuild_10,Single Family Home,residential_intervention,New Build,Upgrade to High-Performance Based Standard,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2",148.53,USD per m2,0.34,GJ per m2,40
+sing_fam_newbuild_11,Single Family Home,residential_intervention,New Build,Upgrade to High-Performance Based Standard plus Heat Pump,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1",190.97,USD per m2,0.39,GJ per m2,40
+sing_fam_newbuild_12,Single Family Home,residential_intervention,New Build,Net Zero Energy Building,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install solar pannels which are capable to support at least 3kWp load",235.53,USD per m2,0.45,GJ per m2,40
+apart_newbuild_7,Apartment,residential_intervention,New Build,Efficient lightbulbs and appliances,"Procurement and installation of energy-efficient lighting fixtures and appliances is recommended. The suggested ratings for optimal efficiency are as follows:
+
+- Ovens with an A rating.
+- Wet appliances with an A+ rating.
+- Cold appliances with an A++ rating.",18.37,USD per m2,0.26,GJ per m2,40
+apart_newbuild_8,Apartment,residential_intervention,New Build,Heat Pump,Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1,25.13,USD per m2,-0.02,GJ per m2,40
+apart_newbuild_9,Apartment,residential_intervention,New Build,Upgrade to Mid-Performance Based Standard,"Renovation with measures in addition to building code or other regional requirements, which may include
+
+- Upgrading windows and doors to designs with better performance in heat insulation
+- Improving insulation with materials meeting or surpassing the EcoLogo program standards.
+- Replacing current appliances with either Energy Star Appliances or appliances rated within the top 33% of EnerGuide ratings for that category.
+- Installing water-conserving fixtures.
+- Installing a water heater with an energy factor exceeding 0.58",150.75,USD per m2,0.03,GJ per m2,40
+apart_newbuild_10,Apartment,residential_intervention,New Build,Upgrade to High-Performance Based Standard,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2",50.25,USD per m2,0.38,GJ per m2,40
+apart_newbuild_11,Apartment,residential_intervention,New Build,Upgrade to High-Performance Based Standard plus Heat Pump,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1",226.13,USD per m2,0.48,GJ per m2,40
+apart_newbuild_12,Apartment,residential_intervention,New Build,Net Zero Energy Building,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install solar pannels which are capable to support at least 3kWp load",238.69,USD per m2,0.54,GJ per m2,40
+town_newbuild_7,Townhouse,residential_intervention,New Build,Efficient lightbulbs and appliances,"Procurement and installation of energy-efficient lighting fixtures and appliances is recommended. The suggested ratings for optimal efficiency are as follows:
+
+- Ovens with an A rating.
+- Wet appliances with an A+ rating.
+- Cold appliances with an A++ rating.",18.37,USD per m2,0.27,GJ per m2,40
+town_newbuild_8,Townhouse,residential_intervention,New Build,Heat Pump,Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1,74.04,USD per m2,0.11,GJ per m2,40
+town_newbuild_9,Townhouse,residential_intervention,New Build,Upgrade to Mid-Performance Based Standard,"Renovation with measures in addition to building code or other regional requirements, which may include
+
+- Upgrading windows and doors to designs with better performance in heat insulation
+- Improving insulation with materials meeting or surpassing the EcoLogo program standards.
+- Replacing current appliances with either Energy Star Appliances or appliances rated within the top 33% of EnerGuide ratings for that category.
+- Installing water-conserving fixtures.
+- Installing a water heater with an energy factor exceeding 0.58",22.27,USD per m2,0.11,GJ per m2,40
+town_newbuild_10,Townhouse,residential_intervention,New Build,Upgrade to High-Performance Based Standard,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2",148.08,USD per m2,0.31,GJ per m2,40
+town_newbuild_11,Townhouse,residential_intervention,New Build,Upgrade to High-Performance Based Standard plus Heat Pump,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1",190.38,USD per m2,0.37,GJ per m2,40
+town_newbuild_12,Townhouse,residential_intervention,New Build,Net Zero Energy Building,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install solar pannels which are capable to support at least 3kWp load",234.81,USD per m2,0.43,GJ per m2,40
+sing_fam_retrofit_1,Single Family Home,residential_intervention,Retrofit,Efficient lightbulbs and appliances,"Procurement and installation of energy-efficient lighting fixtures and appliances is recommended. The suggested ratings for optimal efficiency are as follows:
+
+- Ovens with an A rating.
+- Wet appliances with an A+ rating.
+- Cold appliances with an A++ rating.",14,USD per m2,0.07,GJ per m2,20
+sing_fam_retrofit_2,Single Family Home,residential_intervention,Retrofit,Complete A Retrofit to Meet the Building Energy Code,"Check your local building energy code but may include:
+Upgrade wall insulation values to 0.21 W/m^2*K
+
+Upgrade ceiling insulation values to 0.162 W/m^2*K
+
+Replace windows with ones with an insulation value of 2.2 W/m^2*K
+
+Upgrade your NG furnace with one that has an efficiency of AFUE 92%
+
+Upgrade your water heater to one with an efficiency of at 67%",27.58,USD per m2,0.56,GJ per m2,40
+sing_fam_retrofit_3,Single Family Home,residential_intervention,Retrofit,Complete A Retrofit to Meet the Building Energy Code and Install Energy Efficient Heat Pumps,"Renovate building to align with the current building code standards.  Suggested improvements include:
+Upgrade wall insulation values to 0.21 W/m^2*K
+
+Upgrade ceiling insulation values to 0.162 W/m^2*K
+
+Replace windows with ones with an insulation value of 2.2 W/m^2*K
+
+Upgrade your NG furnace with one that has an efficiency of AFUE 92%
+
+Upgrade your water heater to one with an efficiency of at 67%
+
+Install a Heat Pump(s) with a Coefficient of Performance (COPh) 3.1",70.02,USD per m2,0.3,GJ per m2,40
+sing_fam_retrofit_4,Single Family Home,residential_intervention,Retrofit,Upgrade to mid-performance base,"Renovation with measures in addition to building code or other regional requirements, which may include
+
+- Upgrading windows and doors to designs with better performance in heat insulation
+- Improving insulation with materials meeting or surpassing the EcoLogo program standards.
+- Replacing current appliances with either Energy Star Appliances or appliances rated within the top 33% of EnerGuide ratings for that category.
+- Installing water-conserving fixtures.
+- Installing a water heater with an energy factor exceeding 0.58",180.78,USD per m2,0.34,GJ per m2,40
+sing_fam_retrofit_5,Single Family Home,residential_intervention,Retrofit,Upgrade to high performance base,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2",424.38,USD per m2,0.38,GJ per m2,40
+sing_fam_retrofit_6,Single Family Home,residential_intervention,Retrofit,Upgrade to high performance base + Heat pump,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1",466.81,USD per m2,0.56,GJ per m2,40
+sing_fam_retrofit_7,Single Family Home,residential_intervention,Retrofit,Net Zero Energy Building,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install solar pannels which are capable to support at least 3kWp load",572.91,USD per m2,0.25,GJ per m2,40
+apart_retrofit_1,Apartment,residential_intervention,Retrofit,Efficient lights and appliances,"Procurement and installation of energy-efficient lighting fixtures and appliances is recommended. The suggested ratings for optimal efficiency are as follows:
+
+- Ovens with an A rating.
+- Wet appliances with an A+ rating.
+- Cold appliances with an A++ rating.",25.13,USD per m2,0.04,GJ per m2,25
+apart_retrofit_2,Apartment,residential_intervention,Retrofit,Upgrade to Code,"Renovation to align with the current building code standards is recommended. The suggested improvements consist of the following actions:
+
+Strengthen insulation to meet the specified thermal conductivity values
+- wall: 0.21 W/m^2*K
+- ceiling: 0.162 W/m^2*K
+- windows: 2.2 W/m^2*K
+
+Upgrade your home heating equipment with a model featuring better efficiency rating
+- natural gas furnace: Annual Fuel Utilization Efficiency (AFUE) ratio 92%.
+- water heater: 67%",50.25,USD per m2,0.26,GJ per m2,25
+apart_retrofit_3,Apartment,residential_intervention,Retrofit,Upgrade to Code+ Heat Pump,"Renovation to align with the current building code standards is recommended. The suggested improvements consist of the following actions:
+
+Strengthen insulation to meet the specified thermal conductivity values
+- wall: 0.21 W/m^2*K
+- ceiling: 0.162 W/m^2*K
+- windows: 2.2 W/m^2*K
+
+Replace natural gas furnace and water heater by a heat pump with Coefficient of Performance (COP) 3.1",175.88,USD per m2,0.24,GJ per m2,25
+apart_retrofit_4,Apartment,residential_intervention,Retrofit,Upgrade to mid-performance base,"Renovation with measures in addition to building code or other regional requirements, which may include
+
+- Upgrading windows and doors to designs with better performance in heat insulation
+- Improving insulation with materials meeting or surpassing the EcoLogo program standards.
+- Replacing current appliances with either Energy Star Appliances or appliances rated within the top 33% of EnerGuide ratings for that category.
+- Installing water-conserving fixtures.
+- Installing a water heater with an energy factor exceeding 0.58",75.38,USD per m2,0.29,GJ per m2,25
+apart_retrofit_5,Apartment,residential_intervention,Retrofit,Upgrade to high performance base,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2",477.39,USD per m2,0.63,GJ per m2,25
+apart_retrofit_6,Apartment,residential_intervention,Retrofit,Upgrade to high performance base + Heat pump,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1",525.12,USD per m2,0.73,GJ per m2,25
+apart_retrofit_7,Apartment,residential_intervention,Retrofit,Net Zero Energy Building,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install solar pannels which are capable to support at least 3kWp load",644.47,USD per m2,0.8,GJ per m2,25
+town_retrofit_1,Townhouse,residential_intervention,Retrofit,Efficient lights and appliances,"
+Procurement and installation of energy-efficient lighting fixtures and appliances is recommended. The suggested ratings for optimal efficiency are as follows:
+
+- Ovens with an A rating.
+- Wet appliances with an A+ rating.
+- Cold appliances with an A++ rating.",18.37,USD per m2,0.17,GJ per m2,25
+town_retrofit_2,Townhouse,residential_intervention,Retrofit,Upgrade to Code,"Renovation to align with the current building code standards is recommended. The suggested improvements consist of the following actions:
+
+Strengthen insulation to meet the specified thermal conductivity values
+- wall: 0.21 W/m^2*K
+- ceiling: 0.162 W/m^2*K
+- windows: 2.2 W/m^2*K
+
+Upgrade your home heating equipment with a model featuring better efficiency rating
+- natural gas furnace: Annual Fuel Utilization Efficiency (AFUE) ratio 92%.
+- water heater: 67%",25.05,USD per m2,0.27,GJ per m2,25
+town_retrofit_3,Townhouse,residential_intervention,Retrofit,Upgrade to Code+ Heat Pump,"Renovation to align with the current building code standards is recommended. The suggested improvements consist of the following actions:
+
+Strengthen insulation to meet the specified thermal conductivity values
+- wall: 0.21 W/m^2*K
+- ceiling: 0.162 W/m^2*K
+- windows: 2.2 W/m^2*K
+
+Replace natural gas furnace and water heater by a heat pump with Coefficient of Performance (COP) 3.1",80.72,USD per m2,0.38,GJ per m2,25
+town_retrofit_4,Townhouse,residential_intervention,Retrofit,Upgrade to mid-performance base,"Renovation with measures in addition to building code or other regional requirements, which may include
+
+- Upgrading windows and doors to designs with better performance in heat insulation
+- Improving insulation with materials meeting or surpassing the EcoLogo program standards.
+- Replacing current appliances with either Energy Star Appliances or appliances rated within the top 33% of EnerGuide ratings for that category.
+- Installing water-conserving fixtures.
+- Installing a water heater with an energy factor exceeding 0.58",33.4,USD per m2,0.38,GJ per m2,25
+town_retrofit_5,Townhouse,residential_intervention,Retrofit,Upgrade to high performance base,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2",423.08,USD per m2,0.58,GJ per m2,25
+town_retrofit_6,Townhouse,residential_intervention,Retrofit,Upgrade to high performance base + Heat pump,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1",465.38,USD per m2,0.63,GJ per m2,25
+town_retrofit_7,Townhouse,residential_intervention,Retrofit,Net Zero Energy Building,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install solar pannels which are capable to support at least 3kWp load",571.15,USD per m2,0.7,GJ per m2,25
+sing_fam_retrofit_8,Single Family Home,residential_intervention,Retrofit,Efficient lights and appliances,"
+Procurement and installation of energy-efficient lighting fixtures and appliances is recommended. The suggested ratings for optimal efficiency are as follows:
+
+- Ovens with an A rating.
+- Wet appliances with an A+ rating.
+- Cold appliances with an A++ rating.",14,USD per m2,0.07,GJ per m2,20
+sing_fam_retrofit_9,Single Family Home,residential_intervention,Retrofit,Upgrade to Code,"Renovation to align with the current building code standards is recommended. The suggested improvements consist of the following actions:
+
+Strengthen insulation to meet the specified thermal conductivity values
+- wall: 0.21 W/m^2*K
+- ceiling: 0.162 W/m^2*K
+- windows: 2.2 W/m^2*K
+
+Upgrade your home heating equipment with a model featuring better efficiency rating
+- natural gas furnace: Annual Fuel Utilization Efficiency (AFUE) ratio 92%.
+- water heater: 67%",27.58,USD per m2,0.56,GJ per m2,40
+sing_fam_retrofit_10,Single Family Home,residential_intervention,Retrofit,Upgrade to Code+ Heat Pump,"Renovation to align with the current building code standards is recommended. The suggested improvements consist of the following actions:
+
+Strengthen insulation to meet the specified thermal conductivity values
+- wall: 0.21 W/m^2*K
+- ceiling: 0.162 W/m^2*K
+- windows: 2.2 W/m^2*K
+
+Replace natural gas furnace and water heater by a heat pump with Coefficient of Performance (COP) 3.1",70.02,USD per m2,0.3,GJ per m2,40
+sing_fam_retrofit_11,Single Family Home,residential_intervention,Retrofit,Upgrade to mid-performance base,"Renovation with measures in addition to building code or other regional requirements, which may include
+
+- Upgrading windows and doors to designs with better performance in heat insulation
+- Improving insulation with materials meeting or surpassing the EcoLogo program standards.
+- Replacing current appliances with either Energy Star Appliances or appliances rated within the top 33% of EnerGuide ratings for that category.
+- Installing water-conserving fixtures.
+- Installing a water heater with an energy factor exceeding 0.58",180.78,USD per m2,0.34,GJ per m2,40
+sing_fam_retrofit_12,Single Family Home,residential_intervention,Retrofit,Upgrade to high performance base,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2",424.38,USD per m2,0.38,GJ per m2,40
+sing_fam_retrofit_13,Single Family Home,residential_intervention,Retrofit,Upgrade to high performance base + Heat pump,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1",466.81,USD per m2,0.56,GJ per m2,40
+sing_fam_retrofit_14,Single Family Home,residential_intervention,Retrofit,Net Zero Energy Building,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install solar pannels which are capable to support at least 3kWp load",572.91,USD per m2,0.25,GJ per m2,40
+apart_retrofit_8,Apartment,residential_intervention,Retrofit,Efficient lights and appliances,"
+Procurement and installation of energy-efficient lighting fixtures and appliances is recommended. The suggested ratings for optimal efficiency are as follows:
+
+- Ovens with an A rating.
+- Wet appliances with an A+ rating.
+- Cold appliances with an A++ rating.",25.13,USD per m2,0.04,GJ per m2,25
+apart_retrofit_9,Apartment,residential_intervention,Retrofit,Upgrade to Code,"Renovation to align with the current building code standards is recommended. The suggested improvements consist of the following actions:
+
+Strengthen insulation to meet the specified thermal conductivity values
+- wall: 0.21 W/m^2*K
+- ceiling: 0.162 W/m^2*K
+- windows: 2.2 W/m^2*K
+
+Upgrade your home heating equipment with a model featuring better efficiency rating
+- natural gas furnace: Annual Fuel Utilization Efficiency (AFUE) ratio 92%.
+- water heater: 67%",50.25,USD per m2,0.26,GJ per m2,25
+apart_retrofit_10,Apartment,residential_intervention,Retrofit,Upgrade to Code+ Heat Pump,"Renovation to align with the current building code standards is recommended. The suggested improvements consist of the following actions:
+
+Strengthen insulation to meet the specified thermal conductivity values
+- wall: 0.21 W/m^2*K
+- ceiling: 0.162 W/m^2*K
+- windows: 2.2 W/m^2*K
+
+Replace natural gas furnace and water heater by a heat pump with Coefficient of Performance (COP) 3.1",175.88,USD per m2,0.24,GJ per m2,25
+apart_retrofit_11,Apartment,residential_intervention,Retrofit,Upgrade to mid-performance base,"Renovation with measures in addition to building code or other regional requirements, which may include
+
+- Upgrading windows and doors to designs with better performance in heat insulation
+- Improving insulation with materials meeting or surpassing the EcoLogo program standards.
+- Replacing current appliances with either Energy Star Appliances or appliances rated within the top 33% of EnerGuide ratings for that category.
+- Installing water-conserving fixtures.
+- Installing a water heater with an energy factor exceeding 0.58",75.38,USD per m2,0.29,GJ per m2,25
+apart_retrofit_12,Apartment,residential_intervention,Retrofit,Upgrade to high performance base,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2",477.39,USD per m2,0.63,GJ per m2,25
+apart_retrofit_13,Apartment,residential_intervention,Retrofit,Upgrade to high performance base + Heat pump,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1",525.12,USD per m2,0.73,GJ per m2,25
+apart_retrofit_14,Apartment,residential_intervention,Retrofit,Net Zero Energy Building,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install solar pannels which are capable to support at least 3kWp load",644.47,USD per m2,0.8,GJ per m2,25
+town_retrofit_8,Townhouse,residential_intervention,Retrofit,Efficient lights and appliances,"
+Procurement and installation of energy-efficient lighting fixtures and appliances is recommended. The suggested ratings for optimal efficiency are as follows:
+
+- Ovens with an A rating.
+- Wet appliances with an A+ rating.
+- Cold appliances with an A++ rating.",18.37,USD per m2,0.17,GJ per m2,25
+town_retrofit_9,Townhouse,residential_intervention,Retrofit,Upgrade to Code,"Renovation to align with the current building code standards is recommended. The suggested improvements consist of the following actions:
+
+Strengthen insulation to meet the specified thermal conductivity values
+- wall: 0.21 W/m^2*K
+- ceiling: 0.162 W/m^2*K
+- windows: 2.2 W/m^2*K
+
+Upgrade your home heating equipment with a model featuring better efficiency rating
+- natural gas furnace: Annual Fuel Utilization Efficiency (AFUE) ratio 92%.
+- water heater: 67%",25.05,USD per m2,0.27,GJ per m2,25
+town_retrofit_10,Townhouse,residential_intervention,Retrofit,Upgrade to Code+ Heat Pump,"Renovation to align with the current building code standards is recommended. The suggested improvements consist of the following actions:
+
+Strengthen insulation to meet the specified thermal conductivity values
+- wall: 0.21 W/m^2*K
+- ceiling: 0.162 W/m^2*K
+- windows: 2.2 W/m^2*K
+
+Replace natural gas furnace and water heater by a heat pump with Coefficient of Performance (COP) 3.1",80.72,USD per m2,0.38,GJ per m2,25
+town_retrofit_11,Townhouse,residential_intervention,Retrofit,Upgrade to mid-performance base,"Renovation with measures in addition to building code or other regional requirements, which may include
+
+- Upgrading windows and doors to designs with better performance in heat insulation
+- Improving insulation with materials meeting or surpassing the EcoLogo program standards.
+- Replacing current appliances with either Energy Star Appliances or appliances rated within the top 33% of EnerGuide ratings for that category.
+- Installing water-conserving fixtures.
+- Installing a water heater with an energy factor exceeding 0.58",33.4,USD per m2,0.38,GJ per m2,25
+town_retrofit_12,Townhouse,residential_intervention,Retrofit,Upgrade to high performance base,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2",423.08,USD per m2,0.58,GJ per m2,25
+town_retrofit_13,Townhouse,residential_intervention,Retrofit,Upgrade to high performance base + Heat pump,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install a Heat Pump(s) with a Coefficient of Performance (COP) 3.1",465.38,USD per m2,0.63,GJ per m2,25
+town_retrofit_14,Townhouse,residential_intervention,Retrofit,Net Zero Energy Building,"Retrofit the residence to achieve annually:
+- heating load of <15 kWh/m^2 
+- total primary energy consumption of <60 kWh/m^2
+
+Install solar pannels which are capable to support at least 3kWp load",571.15,USD per m2,0.7,GJ per m2,25

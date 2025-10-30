@@ -1,0 +1,6 @@
+refrigerator_type,annual_leakage_rate
+Domestic Refrigeration,0.003
+Stand-Alone Commercial Applications,0.055
+Medium and Large Commercial refrigeration,0.2
+Industrial Refrigeration including Food Processing and Cold Storage,0.16
+Transportation Refrigeration Unit,0.325

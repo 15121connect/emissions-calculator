@@ -1,0 +1,138 @@
+intervention_id,intervention_category,intervention_subcategory,intervention_name,intervention_description,capital_cost,capital_cost_unit,energy_savings_ratio,lifespan
+comm_newbuild_1,commercial_intervention,New Build,Advanced Energy Design Guide - 50% Reduction,Upgrade to achieve 50% energy savings compared to buildings constructed to meet the minimum code requirements,50.03,USD per m2,0.5,25
+comm_newbuild_2,commercial_intervention,New Build,Advanced Energy Design Guide - 30% Reduction,Upgrade to achieve 30% energy savings compared to buildings constructed to meet the minimum building code requirements,38.36,USD per m2,0.2941,25
+comm_newbuild_3,commercial_intervention,New Build,Advanced Energy Design Guide - 50% Reduction,Upgrade to achieve 50% energy savings compared to buildings constructed to meet the minimum code requirements,50.03,USD per m2,0.5405,25
+comm_newbuild_4,commercial_intervention,New Build,Advanced Energy Design Guide - 30% Reduction,Upgrade to achieve 30% energy savings compared to buildings constructed to meet the minimum building code requirements,38.36,USD per m2,0.4054,25
+comm_newbuild_5,commercial_intervention,New Build,Advanced Energy Design Guide - 50% Reduction,Upgrade to achieve 50% energy savings compared to buildings constructed to meet the minimum code requirements,50.03,USD per m2,0.3563,25
+comm_newbuild_6,commercial_intervention,New Build,Advanced Energy Design Guide - 30% Reduction,Upgrade to achieve 30% energy savings compared to buildings constructed to meet the minimum building code requirements,38.36,USD per m2,0.3218,25
+comm_newbuild_7,commercial_intervention,New Build,Advanced Energy Design Guide - 50% Reduction,Upgrade to achieve 50% energy savings compared to buildings constructed to meet the minimum code requirements,50.03,USD per m2,0.5,25
+comm_newbuild_8,commercial_intervention,New Build,Advanced Energy Design Guide - 30% Reduction,Upgrade to achieve 30% energy savings compared to buildings constructed to meet the minimum building code requirements,38.36,USD per m2,0.2941,25
+comm_newbuild_9,commercial_intervention,New Build,Advanced Energy Design Guide - 50% Reduction,Upgrade to achieve 50% energy savings compared to buildings constructed to meet the minimum code requirements,50.03,USD per m2,0.5405,25
+comm_newbuild_10,commercial_intervention,New Build,Advanced Energy Design Guide - 30% Reduction,Upgrade to achieve 30% energy savings compared to buildings constructed to meet the minimum building code requirements,38.36,USD per m2,0.4054,25
+comm_newbuild_11,commercial_intervention,New Build,Advanced Energy Design Guide - 50% Reduction,Upgrade to achieve 50% energy savings compared to buildings constructed to meet the minimum code requirements,50.03,USD per m2,0.3563,25
+comm_newbuild_12,commercial_intervention,New Build,Advanced Energy Design Guide - 30% Reduction,Upgrade to achieve 30% energy savings compared to buildings constructed to meet the minimum building code requirements,38.36,USD per m2,0.3218,25
+comm_retrofit_1,commercial_intervention,Retrofit,Moderate-Deep Retrofit,"Retrofit measure options may include:
+Lighting
+- Implement daylight and skylights harvesting
+- Refine the lighting system in terms of circuit and schedule, according to end-use.
+- Modify interior fixtures for an at least 58% reduction in lighting power density.
+- Upgrade exterior fixtures with exterior lighting control to lower power consumption
+
+HVAC
+- Substitute the roof top unit (RTU) with a better efficient model
+- Install a dedicated outdoor air system
+- Eliminate excess heat from the front entry",57.14,USD per m2,0.358,25
+comm_retrofit_2,commercial_intervention,Retrofit,Shallow Retrofit,"Retrofit measure options may include:
+Lighting
+- Implement daylight harvesting
+- Refine the lighting system in terms of circuit and schedule, according to end-use.
+- Modify interior fixtures for an at least 13% reduction in lighting power density.
+- Upgrade exterior fixtures with exterior lighting control to lower power consumption
+
+HVAC
+- Eliminate excess heat from the front entry",19.06,USD per m2,0.1364,25
+comm_retrofit_3,commercial_intervention,Retrofit,Moderate-Deep Retrofit,"Retrofit measure options may include:
+Lighting
+- Modify interior fixtures to reduce lighting power density by at least 11%.
+
+Envelope
+- Enhance roof insulation.
+
+HVAC
+- Widen the zone temperature deadband and enable conference room standby control using Direct Digital Control system.
+- Reduce VAV box minimum flow setpoints, adjust duct static pressure, and implement demand-controlled ventilation.
+- Replace the supply fan motor with a Variable Frequency Drive (VFD).
+- Upgrade boilers and heating plant pumping system with a variable flow primary configuration",57.14,USD per m2,0.3582,25
+comm_retrofit_4,commercial_intervention,Retrofit,Shallow Retrofit,"Retrofit measure options may include:
+Lighting
+- Integrate occupancy sensors into interior lighting control system
+- Implement daylight harvesting solutions
+- Retrofit exterior fixtures with exterior lighting control to decrease power consumption
+
+HVAC
+- Widen the zone temperature deadband by replacing pneumatic thermostats.
+- Lower Variable Air Volume box minimum flow setpoints by rebalancing pneumatic boxes.",19.06,USD per m2,0.1343,25
+comm_retrofit_5,commercial_intervention,Retrofit,Moderate-Deep Retrofit,"Retrofit measure options may include:
+Lighting
+- Implement daylight and skylights harvesting
+- Refine the lighting system in terms of circuit and schedule, according to end-use.
+- Modify interior fixtures for an at least 58% reduction in lighting power density.
+- Upgrade exterior fixtures with exterior lighting control to lower power consumption
+
+HVAC
+- Substitute the roof top unit (RTU) with a better efficient model
+- Install a dedicated outdoor air system
+- Eliminate excess heat from the front entry",57.14,USD per m2,0.3361,25
+comm_retrofit_6,commercial_intervention,Retrofit,Shallow Retrofit,"Retrofit measure options may include:
+Lighting
+- Implement daylight harvesting
+- Refine the lighting system in terms of circuit and schedule, according to end-use.
+- Modify interior fixtures for an at least 13% reduction in lighting power density.
+- Upgrade exterior fixtures with exterior lighting control to lower power consumption
+
+HVAC
+- Eliminate excess heat from the front entry",19.06,USD per m2,0.0857,25
+comm_retrofit_7,commercial_intervention,Retrofit,Moderate-Deep Retrofit,"Retrofit measure options may include:
+Lighting
+- Implement daylight and skylights harvesting
+- Refine the lighting system in terms of circuit and schedule, according to end-use.
+- Modify interior fixtures for an at least 58% reduction in lighting power density.
+- Upgrade exterior fixtures with exterior lighting control to lower power consumption
+
+HVAC
+- Substitute the roof top unit (RTU) with a better efficient model
+- Install a dedicated outdoor air system
+- Eliminate excess heat from the front entry",57.14,USD per m2,0.358,25
+comm_retrofit_8,commercial_intervention,Retrofit,Shallow Retrofit,"Retrofit measure options may include:
+Lighting
+- Implement daylight harvesting
+- Refine the lighting system in terms of circuit and schedule, according to end-use.
+- Modify interior fixtures for an at least 13% reduction in lighting power density.
+- Upgrade exterior fixtures with exterior lighting control to lower power consumption
+
+HVAC
+- Eliminate excess heat from the front entry",19.06,USD per m2,0.1364,25
+comm_retrofit_9,commercial_intervention,Retrofit,Moderate-Deep Retrofit,"Retrofit measure options may include:
+Lighting
+- Modify interior fixtures to reduce lighting power density by at least 11%.
+
+Envelope
+- Enhance roof insulation.
+
+HVAC
+- Widen the zone temperature deadband and enable conference room standby control using Direct Digital Control system.
+- Reduce VAV box minimum flow setpoints, adjust duct static pressure, and implement demand-controlled ventilation.
+- Replace the supply fan motor with a Variable Frequency Drive (VFD).
+- Implement a heating plant shutdown strategy for periods with no heating load.
+- Improve the efficiency of the condenser water system and condenser water pumping system.
+- Transition the cooling plant pumping system to a variable primary configuration.
+- Incorporate a VFD into one chiller for improved performance and energy savings",57.14,USD per m2,0.3582,25
+comm_retrofit_10,commercial_intervention,Retrofit,Shallow Retrofit,"Retrofit measure options may include:
+Lighting
+- Integrate occupancy sensors into interior lighting control system
+- Implement daylight harvesting solutions
+- Retrofit exterior fixtures with exterior lighting control to decrease power consumption
+
+HVAC
+- Widen the zone temperature deadband by replacing pneumatic thermostats.
+- Lower Variable Air Volume box minimum flow setpoints by rebalancing pneumatic boxes.",19.06,USD per m2,0.1343,25
+comm_retrofit_11,commercial_intervention,Retrofit,Moderate-Deep Retrofit,"Retrofit measure options may include:
+Lighting
+- Implement daylight and skylights harvesting
+- Refine the lighting system in terms of circuit and schedule, according to end-use.
+- Modify interior fixtures for an at least 58% reduction in lighting power density.
+- Upgrade exterior fixtures with exterior lighting control to lower power consumption
+
+HVAC
+- Substitute the roof top unit (RTU) with a better efficient model
+- Install a dedicated outdoor air system
+- Eliminate excess heat from the front entry",57.14,USD per m2,0.3361,25
+comm_retrofit_12,commercial_intervention,Retrofit,Shallow Retrofit,"Retrofit measure options may include:
+Lighting
+- Implement daylight harvesting
+- Refine the lighting system in terms of circuit and schedule, according to end-use.
+- Modify interior fixtures for an at least 13% reduction in lighting power density.
+- Upgrade exterior fixtures with exterior lighting control to lower power consumption
+
+HVAC
+- Eliminate excess heat from the front entry",19.06,USD per m2,0.0857,25
