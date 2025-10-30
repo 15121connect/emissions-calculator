@@ -166,4 +166,4 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## Contact
 
-15121connect@gmail.com
+Ola Oguntoye | 15121connect@gmail.com
