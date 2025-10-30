@@ -162,7 +162,7 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ## License
 
-MIT License - see [LICENSE](License) file for details
+MIT License - see [License](LICENSE) file for details
 
 ## Contact
 
