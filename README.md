@@ -166,4 +166,4 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## Contact
 
-[Your contact information]
+15121connect@gmail.com
